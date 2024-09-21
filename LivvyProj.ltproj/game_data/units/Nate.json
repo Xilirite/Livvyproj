@@ -9,7 +9,7 @@
         "tags": [],
         "bases": {
             "HP": 17,
-            "SPD": 9,
+            "SPD": 8,
             "DEF": 0,
             "RES": 2,
             "MOV": 5,
@@ -20,15 +20,15 @@
             "ManaStat": 5
         },
         "growths": {
-            "HP": 55,
-            "SPD": 60,
-            "DEF": 15,
-            "RES": 35,
+            "HP": 45,
+            "SPD": 50,
+            "DEF": 5,
+            "RES": 25,
             "MOV": 0,
-            "POW": 45,
-            "ACC": 50,
-            "LTH": 35,
-            "EVA": 50,
+            "POW": 40,
+            "ACC": 35,
+            "LTH": 40,
+            "EVA": 40,
             "ManaStat": 0
         },
         "stat_cap_modifiers": {

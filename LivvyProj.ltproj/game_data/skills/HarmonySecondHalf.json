@@ -33,10 +33,6 @@
             [
                 "condition",
                 "'Dark' in unit.get_weapon().tags"
-            ],
-            [
-                "event_after_combat",
-                "Global AphiFloodlightRemove"
             ]
         ]
     }

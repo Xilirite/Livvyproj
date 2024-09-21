@@ -393,7 +393,7 @@
                 "sub_nid": "Visit",
                 "condition": "True",
                 "time_left": null,
-                "only_once": false,
+                "only_once": true,
                 "interrupt_move": false
             }
         ],

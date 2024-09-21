@@ -20,15 +20,15 @@
             "ManaStat": 5
         },
         "growths": {
-            "HP": 65,
-            "SPD": 25,
-            "DEF": 20,
+            "HP": 90,
+            "SPD": 35,
+            "DEF": 35,
             "MOV": 0,
-            "RES": 35,
-            "POW": 30,
-            "ACC": 40,
-            "LTH": 0,
-            "EVA": 35,
+            "RES": 40,
+            "POW": 45,
+            "ACC": 50,
+            "LTH": 5,
+            "EVA": 40,
             "ManaStat": 0
         },
         "stat_cap_modifiers": {

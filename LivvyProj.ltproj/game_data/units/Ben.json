@@ -11,13 +11,13 @@
         ],
         "bases": {
             "HP": 30,
-            "SPD": 5,
+            "SPD": 4,
             "DEF": 5,
             "MOV": 6,
             "RES": 0,
             "POW": 15,
             "ACC": 8,
-            "LTH": 3,
+            "LTH": 0,
             "EVA": 4,
             "ManaStat": 5
         },

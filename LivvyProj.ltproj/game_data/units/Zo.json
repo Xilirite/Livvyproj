@@ -8,7 +8,7 @@
         "klass": "Tactician",
         "tags": [],
         "bases": {
-            "HP": 20,
+            "HP": 15,
             "SPD": 4,
             "DEF": 1,
             "RES": 3,
@@ -20,7 +20,7 @@
             "ManaStat": 10
         },
         "growths": {
-            "HP": 45,
+            "HP": 55,
             "SPD": 30,
             "DEF": 5,
             "RES": 25,

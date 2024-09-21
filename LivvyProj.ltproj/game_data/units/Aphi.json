@@ -9,7 +9,7 @@
         "tags": [],
         "bases": {
             "HP": 20,
-            "SPD": 6,
+            "SPD": 4,
             "DEF": 1,
             "RES": 5,
             "MOV": 5,
@@ -27,7 +27,7 @@
             "MOV": 0,
             "POW": 50,
             "ACC": 50,
-            "LTH": 0,
+            "LTH": 10,
             "EVA": 20,
             "ManaStat": 0
         },
