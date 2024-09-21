@@ -1,0 +1,124 @@
+[
+    {
+        "nid": "Zo",
+        "name": "Zo",
+        "desc": "Co-founder of Ben and Zo's\nMercenary Co. Anxious, but fiercely\ndevoted to those she calls friend.",
+        "variant": "Female",
+        "level": 4,
+        "klass": "Tactician",
+        "tags": [],
+        "bases": {
+            "HP": 20,
+            "SPD": 4,
+            "DEF": 1,
+            "RES": 3,
+            "MOV": 5,
+            "POW": 16,
+            "ACC": 10,
+            "LTH": 0,
+            "EVA": 5,
+            "ManaStat": 10
+        },
+        "growths": {
+            "HP": 45,
+            "SPD": 30,
+            "DEF": 5,
+            "RES": 25,
+            "MOV": 0,
+            "POW": 50,
+            "ACC": 35,
+            "LTH": 0,
+            "EVA": 35,
+            "ManaStat": 0
+        },
+        "stat_cap_modifiers": {
+            "RES": 0,
+            "SPD": 0,
+            "HP": 0,
+            "MOV": 0,
+            "DEF": 0,
+            "POW": 0,
+            "ACC": 0,
+            "LTH": 0,
+            "EVA": 0,
+            "ManaStat": 0
+        },
+        "starting_items": [
+            [
+                "SurvivorRing",
+                false
+            ]
+        ],
+        "learned_skills": [
+            [
+                1,
+                "ZoSpellbook"
+            ],
+            [
+                1,
+                "Strategomancy"
+            ],
+            [
+                1,
+                "ChromaticBurst"
+            ]
+        ],
+        "unit_notes": [],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                0,
+                251
+            ],
+            "Lance": [
+                true,
+                0,
+                251
+            ],
+            "Axe": [
+                false,
+                0,
+                251
+            ],
+            "Bow": [
+                false,
+                0,
+                251
+            ],
+            "Staff": [
+                false,
+                0,
+                251
+            ],
+            "Light": [
+                false,
+                0,
+                251
+            ],
+            "Anima": [
+                false,
+                0,
+                251
+            ],
+            "Dark": [
+                false,
+                0,
+                251
+            ],
+            "Default": [
+                false,
+                0,
+                251
+            ],
+            "Magic": [
+                false,
+                1,
+                251
+            ]
+        },
+        "alternate_classes": [],
+        "portrait_nid": "Zo",
+        "affinity": "Anima",
+        "fields": []
+    }
+]

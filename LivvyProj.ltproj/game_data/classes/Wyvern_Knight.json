@@ -1,0 +1,147 @@
+[
+    {
+        "nid": "Wyvern Knight",
+        "name": "Wyvern Knight",
+        "desc": "",
+        "tier": 2,
+        "movement_group": "Fliers",
+        "promotes_from": "Drakerider",
+        "turns_into": [],
+        "tags": [
+            "Mounted",
+            "Dragon",
+            "Flying"
+        ],
+        "max_level": 20,
+        "bases": {
+            "HP": 20,
+            "SPD": 9,
+            "DEF": 7,
+            "RES": 2,
+            "MOV": 8,
+            "POW": 7,
+            "ACC": 8,
+            "LTH": 0,
+            "EVA": 0,
+            "ManaStat": 0
+        },
+        "growths": {
+            "HP": 65,
+            "SPD": 30,
+            "DEF": 15,
+            "RES": 20,
+            "MOV": 0,
+            "POW": 35,
+            "ACC": 30,
+            "LTH": 0,
+            "EVA": 25,
+            "ManaStat": 0
+        },
+        "growth_bonus": {
+            "HP": 0,
+            "SPD": 0,
+            "DEF": 0,
+            "RES": 0,
+            "MOV": 0,
+            "POW": 0,
+            "ACC": 0,
+            "LTH": 0,
+            "EVA": 0,
+            "ManaStat": 0
+        },
+        "promotion": {
+            "HP": 3,
+            "SPD": 3,
+            "DEF": 0,
+            "RES": 1,
+            "MOV": -99,
+            "POW": 1,
+            "ACC": 2,
+            "LTH": 0,
+            "EVA": 0,
+            "ManaStat": 0
+        },
+        "max_stats": {
+            "HP": 60,
+            "SPD": 29,
+            "DEF": 24,
+            "RES": 23,
+            "MOV": 15,
+            "POW": 25,
+            "ACC": 27,
+            "LTH": 30,
+            "EVA": 30,
+            "ManaStat": 30
+        },
+        "learned_skills": [
+            [
+                1,
+                "Flying"
+            ],
+            [
+                1,
+                "Canto"
+            ]
+        ],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                0,
+                1
+            ],
+            "Lance": [
+                2,
+                40,
+                1
+            ],
+            "Axe": [
+                false,
+                0,
+                1
+            ],
+            "Bow": [
+                false,
+                0,
+                1
+            ],
+            "Staff": [
+                false,
+                0,
+                1
+            ],
+            "Light": [
+                false,
+                0,
+                1
+            ],
+            "Anima": [
+                false,
+                0,
+                1
+            ],
+            "Dark": [
+                false,
+                0,
+                1
+            ],
+            "Default": [
+                false,
+                0,
+                1
+            ],
+            "Magic": [
+                false,
+                0,
+                1
+            ]
+        },
+        "icon_nid": "Generic_Portrait_Wyvern_Rider",
+        "icon_index": [
+            0,
+            0
+        ],
+        "map_sprite_nid": "WyvernKnight",
+        "combat_anim_nid": null,
+        "fields": []
+    }
+]

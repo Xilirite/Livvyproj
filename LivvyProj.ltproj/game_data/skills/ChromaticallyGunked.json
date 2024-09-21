@@ -1,0 +1,35 @@
+[
+    {
+        "nid": "ChromaticallyGunked",
+        "name": "Chromatically Gunked",
+        "desc": "This unit is coated in chromatic gunk...\n-5 DEF/RES/EVA.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            10,
+            1
+        ],
+        "components": [
+            [
+                "stat_change",
+                [
+                    [
+                        "DEF",
+                        -5
+                    ],
+                    [
+                        "RES",
+                        -5
+                    ],
+                    [
+                        "EVA",
+                        -5
+                    ]
+                ]
+            ],
+            [
+                "negative",
+                null
+            ]
+        ]
+    }
+]

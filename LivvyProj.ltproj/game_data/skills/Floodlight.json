@@ -1,0 +1,35 @@
+[
+    {
+        "nid": "Floodlight",
+        "name": "Floodlight",
+        "desc": "-5 POW/DEF/RES.\nCan be cleared by using Dark magic.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            4,
+            2
+        ],
+        "components": [
+            [
+                "stat_change",
+                [
+                    [
+                        "POW",
+                        -5
+                    ],
+                    [
+                        "DEF",
+                        -5
+                    ],
+                    [
+                        "RES",
+                        -5
+                    ]
+                ]
+            ],
+            [
+                "lost_on_end_chapter",
+                null
+            ]
+        ]
+    }
+]

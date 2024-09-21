@@ -1,0 +1,38 @@
+[
+    {
+        "nid": "Leapfrog",
+        "name": "Leapfrog",
+        "desc": "Unit can jump over any adjacent unit as a free action. This ability has no cooldown.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            1,
+            4
+        ],
+        "components": [
+            [
+                "spell",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                1
+            ],
+            [
+                "pivot",
+                1
+            ],
+            [
+                "target_unit",
+                null
+            ],
+            [
+                "attack_after_combat",
+                null
+            ]
+        ]
+    }
+]

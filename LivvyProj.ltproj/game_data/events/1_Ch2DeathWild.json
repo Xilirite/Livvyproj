@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Ch2DeathWild",
+        "trigger": "unit_death",
+        "level_nid": "1",
+        "condition": "unit.nid == \"Wild\"",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Wild;Left",
+            "speak;Wild;WAAAAAAAAAAAAAAAAAGH!",
+            "expression;Wild;CloseEyes",
+            "remove_portrait;Wild"
+        ],
+        "nid": "1 Ch2DeathWild"
+    }
+]

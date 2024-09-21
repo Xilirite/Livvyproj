@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Ch2Door",
+        "trigger": "Door",
+        "level_nid": "1",
+        "condition": "region.nid == 'Ch2Door'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "show_layer;Door",
+            "add_portrait;Ben;Right",
+            "speak;Ben;Door's open! We win! Yahoo!",
+            "remove_portrait;Ben",
+            "win_game"
+        ],
+        "nid": "1 Ch2Door"
+    }
+]

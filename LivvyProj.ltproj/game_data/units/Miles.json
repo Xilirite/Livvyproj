@@ -1,0 +1,122 @@
+[
+    {
+        "nid": "Miles",
+        "name": "Miles",
+        "desc": "This guy's the bartender.",
+        "variant": null,
+        "level": 5,
+        "klass": "Archer",
+        "tags": [
+            "Boss"
+        ],
+        "bases": {
+            "HP": 26,
+            "SPD": 5,
+            "DEF": 2,
+            "MOV": 5,
+            "RES": 5,
+            "POW": 13,
+            "ACC": 15,
+            "LTH": 0,
+            "EVA": 15,
+            "ManaStat": 0
+        },
+        "growths": {
+            "HP": 0,
+            "SPD": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "RES": 0,
+            "POW": 0,
+            "ACC": 0,
+            "LTH": 0,
+            "EVA": 0,
+            "ManaStat": 0
+        },
+        "stat_cap_modifiers": {
+            "RES": 0,
+            "SPD": 0,
+            "HP": 0,
+            "MOV": 0,
+            "DEF": 0,
+            "POW": 0,
+            "ACC": 0,
+            "LTH": 0,
+            "EVA": 0,
+            "ManaStat": 0
+        },
+        "starting_items": [
+            [
+                "Iron_Bow",
+                true
+            ]
+        ],
+        "learned_skills": [
+            [
+                1,
+                "Survivor"
+            ],
+            [
+                1,
+                "DistantCounter"
+            ]
+        ],
+        "unit_notes": [],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                0,
+                251
+            ],
+            "Lance": [
+                false,
+                0,
+                251
+            ],
+            "Axe": [
+                true,
+                0,
+                251
+            ],
+            "Bow": [
+                false,
+                1,
+                251
+            ],
+            "Staff": [
+                false,
+                0,
+                251
+            ],
+            "Light": [
+                false,
+                0,
+                251
+            ],
+            "Anima": [
+                false,
+                0,
+                251
+            ],
+            "Dark": [
+                false,
+                0,
+                251
+            ],
+            "Default": [
+                false,
+                0,
+                251
+            ],
+            "Magic": [
+                false,
+                0,
+                251
+            ]
+        },
+        "alternate_classes": [],
+        "portrait_nid": "Miles",
+        "affinity": "None",
+        "fields": []
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Survivor",
+        "name": "Survivor",
+        "desc": "This unit restores 25% HP every turn.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            1,
+            2
+        ],
+        "components": [
+            [
+                "regeneration",
+                0.25
+            ],
+            [
+                "class_skill",
+                null
+            ]
+        ]
+    }
+]

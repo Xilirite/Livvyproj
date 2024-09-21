@@ -1,0 +1,56 @@
+[
+    {
+        "nid": "Forma",
+        "name": "Forma",
+        "desc": "Enhance the target's abilities, granting +2 to all stats.",
+        "icon_nid": "Staff",
+        "icon_index": [
+            0,
+            8
+        ],
+        "components": [
+            [
+                "spell",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                3
+            ],
+            [
+                "weapon_type",
+                "Magic"
+            ],
+            [
+                "weapon_rank",
+                "*"
+            ],
+            [
+                "magic",
+                null
+            ],
+            [
+                "target_ally",
+                null
+            ],
+            [
+                "status_on_hit",
+                "Canto"
+            ],
+            [
+                "exp",
+                20
+            ],
+            [
+                "prf_tags",
+                [
+                    "FormaAccess"
+                ]
+            ]
+        ]
+    }
+]

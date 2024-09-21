@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Raider",
+        "name": "Raider",
+        "desc": "This unit will target villages, but is prone to distraction.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            5,
+            10
+        ],
+        "components": [
+            [
+                "class_skill",
+                null
+            ]
+        ]
+    }
+]

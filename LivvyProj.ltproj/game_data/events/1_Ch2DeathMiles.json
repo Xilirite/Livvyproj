@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Ch2DeathMiles",
+        "trigger": "unit_death",
+        "level_nid": "1",
+        "condition": "unit.nid == \"Miles\"",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Miles;Left",
+            "speak;Miles;Ah dear. That's that, isn't it?|'S a good thing... we've already won...",
+            "expression;Miles;CloseEyes",
+            "remove_portrait;Miles"
+        ],
+        "nid": "1 Ch2DeathMiles"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "SurvivorRing",
+        "name": "Survivor Ring",
+        "desc": "Grants the 'Survivor' skill, restoring 25% HP every turn.",
+        "icon_nid": "Boosters",
+        "icon_index": [
+            0,
+            16
+        ],
+        "components": [
+            [
+                "equippable_accessory",
+                null
+            ],
+            [
+                "status_on_equip",
+                "Survivor"
+            ]
+        ]
+    }
+]

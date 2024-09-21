@@ -1,0 +1,43 @@
+[
+    {
+        "nid": "PinningShotArt",
+        "name": "Pinning Shot",
+        "desc": "Sonu shoots for the legs with +2 range, reducing her Damage by 50% and her ACC and LTH by 5.\nIf she hits, target loses 4 MOV and 10 EVA until Sonu's next turn. Can't double.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            7,
+            6
+        ],
+        "components": [
+            [
+                "modify_maximum_range",
+                2
+            ],
+            [
+                "damage_multiplier",
+                0.5
+            ],
+            [
+                "stat_change",
+                [
+                    [
+                        "ACC",
+                        -5
+                    ],
+                    [
+                        "LTH",
+                        -5
+                    ]
+                ]
+            ],
+            [
+                "give_status_after_hit",
+                "Pinned"
+            ],
+            [
+                "cannot_double",
+                null
+            ]
+        ]
+    }
+]

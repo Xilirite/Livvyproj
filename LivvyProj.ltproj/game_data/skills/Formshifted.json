@@ -1,0 +1,55 @@
+[
+    {
+        "nid": "Formshifted",
+        "name": "Formshifted",
+        "desc": "Unit's form has been shifted\nby Livvy's Forma ability.\n+2 to all stats for 1 turn.",
+        "icon_nid": "Staff",
+        "icon_index": [
+            0,
+            8
+        ],
+        "components": [
+            [
+                "lost_on_upkeep",
+                null
+            ],
+            [
+                "stat_change",
+                [
+                    [
+                        "HP",
+                        2
+                    ],
+                    [
+                        "POW",
+                        2
+                    ],
+                    [
+                        "ACC",
+                        2
+                    ],
+                    [
+                        "LTH",
+                        2
+                    ],
+                    [
+                        "SPD",
+                        2
+                    ],
+                    [
+                        "EVA",
+                        2
+                    ],
+                    [
+                        "DEF",
+                        2
+                    ],
+                    [
+                        "RES",
+                        2
+                    ]
+                ]
+            ]
+        ]
+    }
+]

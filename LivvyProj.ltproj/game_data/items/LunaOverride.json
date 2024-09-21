@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "LunaOverride",
+        "name": "LunaOverride",
+        "desc": "",
+        "icon_nid": "Skills",
+        "icon_index": [
+            4,
+            3
+        ],
+        "components": [
+            [
+                "alternate_resist_formula",
+                "ZERO"
+            ]
+        ]
+    }
+]

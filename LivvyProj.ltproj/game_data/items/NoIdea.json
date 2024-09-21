@@ -1,0 +1,82 @@
+[
+    {
+        "nid": "NoIdea",
+        "name": "No Idea",
+        "desc": "who knows.... 3x Eff; Cavalry, Armour",
+        "icon_nid": "JusticeBolt",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                1
+            ],
+            [
+                "damage",
+                9
+            ],
+            [
+                "hit",
+                80
+            ],
+            [
+                "crit",
+                10
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "weapon_type",
+                "Sword"
+            ],
+            [
+                "weapon_rank",
+                "*"
+            ],
+            [
+                "prf_unit",
+                [
+                    "Ben"
+                ]
+            ],
+            [
+                "effective_damage",
+                {
+                    "effective_tags": [
+                        "Mounted",
+                        "Armor"
+                    ],
+                    "effective_multiplier": 3,
+                    "effective_bonus_damage": 0,
+                    "show_effectiveness_flash": true,
+                    "weapon_effectiveness_multiplied": true
+                }
+            ],
+            [
+                "stat_change",
+                [
+                    [
+                        "SPD",
+                        -2
+                    ]
+                ]
+            ]
+        ]
+    }
+]

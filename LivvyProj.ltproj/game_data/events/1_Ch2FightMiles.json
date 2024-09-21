@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Ch2FightMiles",
+        "trigger": "combat_start",
+        "level_nid": "1",
+        "condition": "(unit.nid == \"Miles\" and unit2.team == 'player') or (unit2.nid == \"Miles\" and unit.team == 'player')",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Miles;Left",
+            "speak;Miles;I'm afraid we can't let you back inside.|This area is under our control now.|Leave. Or die. It's all the same to us.",
+            "remove_portrait;Miles"
+        ],
+        "nid": "1 Ch2FightMiles"
+    }
+]

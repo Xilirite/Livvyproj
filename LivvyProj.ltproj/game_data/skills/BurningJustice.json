@@ -1,0 +1,43 @@
+[
+    {
+        "nid": "BurningJustice",
+        "name": "Burning Justice",
+        "desc": "+1 POW/ACC/LTH/SPD/EVA per 20% of missing HP.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "class_skill",
+                null
+            ],
+            [
+                "stat_change_expression",
+                [
+                    [
+                        "POW",
+                        "int((1.0 - unit.current_hp / unit.stats['HP']) * 5)"
+                    ],
+                    [
+                        "ACC",
+                        "int((1.0 - unit.current_hp / unit.stats['HP']) * 5)"
+                    ],
+                    [
+                        "LTH",
+                        "int((1.0 - unit.current_hp / unit.stats['HP']) * 5)"
+                    ],
+                    [
+                        "SPD",
+                        "int((1.0 - unit.current_hp / unit.stats['HP']) * 5)"
+                    ],
+                    [
+                        "EVA",
+                        "int((1.0 - unit.current_hp / unit.stats['HP']) * 5)"
+                    ]
+                ]
+            ]
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "nid": "LeatherShield",
+        "name": "Leather Shield",
+        "desc": "Unimpressive but reliable.\n+2 DEF, -1 SPD.",
+        "icon_nid": "Boosters",
+        "icon_index": [
+            0,
+            5
+        ],
+        "components": [
+            [
+                "equippable_accessory",
+                null
+            ],
+            [
+                "stat_change",
+                [
+                    [
+                        "DEF",
+                        2
+                    ],
+                    [
+                        "SPD",
+                        -1
+                    ]
+                ]
+            ]
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "nid": "Blossom",
+        "name": "Blossom",
+        "desc": "Restores (POW + 10) HP with extended range.",
+        "icon_nid": "Staff",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": [
+            [
+                "spell",
+                null
+            ],
+            [
+                "target_ally",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                3
+            ],
+            [
+                "weapon_type",
+                "Magic"
+            ],
+            [
+                "weapon_rank",
+                "*"
+            ],
+            [
+                "exp",
+                20
+            ],
+            [
+                "map_hit_add_blend",
+                [
+                    96,
+                    144,
+                    232
+                ]
+            ],
+            [
+                "equation_heal",
+                "HEAL"
+            ],
+            [
+                "prf_tags",
+                [
+                    "BlossomAccess"
+                ]
+            ]
+        ]
+    }
+]

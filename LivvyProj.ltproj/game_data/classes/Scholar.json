@@ -1,0 +1,143 @@
+[
+    {
+        "nid": "Scholar",
+        "name": "Scholar",
+        "desc": "??",
+        "tier": 2,
+        "movement_group": "Heavy Cav",
+        "promotes_from": "Eirika_Lord",
+        "turns_into": [],
+        "tags": [
+            "Horse",
+            "Mounted",
+            "Sword"
+        ],
+        "max_level": 20,
+        "bases": {
+            "HP": 18,
+            "SPD": 4,
+            "DEF": 5,
+            "RES": 0,
+            "MOV": 7,
+            "POW": 3,
+            "ACC": 3,
+            "LTH": 0,
+            "EVA": 0,
+            "ManaStat": 0
+        },
+        "growths": {
+            "HP": 90,
+            "SPD": 45,
+            "DEF": 15,
+            "RES": 20,
+            "MOV": 0,
+            "POW": 45,
+            "ACC": 40,
+            "LTH": 0,
+            "EVA": 40,
+            "ManaStat": 0
+        },
+        "growth_bonus": {
+            "HP": 0,
+            "SPD": 0,
+            "DEF": 0,
+            "RES": 0,
+            "MOV": 0,
+            "POW": 0,
+            "ACC": 0,
+            "LTH": 0,
+            "EVA": 0,
+            "ManaStat": 0
+        },
+        "promotion": {
+            "HP": 4,
+            "SPD": 1,
+            "DEF": 3,
+            "RES": 5,
+            "MOV": -99,
+            "POW": 2,
+            "ACC": 2,
+            "LTH": 0,
+            "EVA": 0,
+            "ManaStat": 0
+        },
+        "max_stats": {
+            "HP": 60,
+            "SPD": 30,
+            "DEF": 22,
+            "RES": 25,
+            "MOV": 15,
+            "POW": 24,
+            "ACC": 29,
+            "LTH": 30,
+            "EVA": 30,
+            "ManaStat": 30
+        },
+        "learned_skills": [
+            [
+                1,
+                "Canto"
+            ]
+        ],
+        "wexp_gain": {
+            "Sword": [
+                true,
+                0,
+                1
+            ],
+            "Lance": [
+                false,
+                0,
+                1
+            ],
+            "Axe": [
+                false,
+                0,
+                1
+            ],
+            "Bow": [
+                false,
+                0,
+                1
+            ],
+            "Magic": [
+                true,
+                0,
+                1
+            ],
+            "Default": [
+                false,
+                0,
+                1
+            ],
+            "Staff": [
+                true,
+                0,
+                1
+            ],
+            "Light": [
+                false,
+                0,
+                1
+            ],
+            "Anima": [
+                true,
+                0,
+                1
+            ],
+            "Dark": [
+                false,
+                0,
+                1
+            ]
+        },
+        "icon_nid": "Generic_Portrait_Citizen",
+        "icon_index": [
+            0,
+            0
+        ],
+        "map_sprite_nid": "Eirika_Great_Lord",
+        "combat_anim_nid": null,
+        "fields": []
+    }
+]

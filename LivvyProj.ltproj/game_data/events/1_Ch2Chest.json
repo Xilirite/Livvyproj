@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Ch2Chest",
+        "trigger": "Chest",
+        "level_nid": "1",
+        "condition": "region.nid == 'Ch2Chest'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "give_item;{unit};BlessedSword",
+            "show_layer;Chest",
+            "has_traded;{unit}"
+        ],
+        "nid": "1 Ch2Chest"
+    }
+]

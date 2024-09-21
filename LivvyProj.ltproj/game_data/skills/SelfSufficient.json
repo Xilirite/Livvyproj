@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "SelfSufficient",
+        "name": "Self Sufficient",
+        "desc": "Unit can cast any spell targets allies on themselves.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "class_skill",
+                null
+            ],
+            [
+                "condition",
+                "True"
+            ],
+            [
+                "item_override",
+                "SelfSufficientOverride"
+            ]
+        ]
+    }
+]

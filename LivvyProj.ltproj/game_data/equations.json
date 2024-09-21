@@ -1,0 +1,110 @@
+[
+    {
+        "nid": "HITPOINTS",
+        "expression": "HP"
+    },
+    {
+        "nid": "MOVEMENT",
+        "expression": "MOV"
+    },
+    {
+        "nid": "ATTACK_SPEED",
+        "expression": "SPD"
+    },
+    {
+        "nid": "DEFENSE_SPEED",
+        "expression": "SPD"
+    },
+    {
+        "nid": "HIT",
+        "expression": "ACC*3"
+    },
+    {
+        "nid": "AVOID",
+        "expression": "EVA*2"
+    },
+    {
+        "nid": "CRIT_HIT",
+        "expression": "LTH*2"
+    },
+    {
+        "nid": "CRIT_AVOID",
+        "expression": "EVA"
+    },
+    {
+        "nid": "DAMAGE",
+        "expression": "POW"
+    },
+    {
+        "nid": "DEFENSE",
+        "expression": "DEF"
+    },
+    {
+        "nid": "MAGIC_DAMAGE",
+        "expression": "POW"
+    },
+    {
+        "nid": "MAGIC_DEFENSE",
+        "expression": "RES"
+    },
+    {
+        "nid": "MAGIC_RANGE",
+        "expression": "max(5, POW//2)"
+    },
+    {
+        "nid": "CRIT_ADD",
+        "expression": "0"
+    },
+    {
+        "nid": "CRIT_MULT",
+        "expression": "2"
+    },
+    {
+        "nid": "SPEED_TO_DOUBLE",
+        "expression": "4"
+    },
+    {
+        "nid": "RATING",
+        "expression": "0"
+    },
+    {
+        "nid": "RESCUE_AID",
+        "expression": "0"
+    },
+    {
+        "nid": "RESCUE_WEIGHT",
+        "expression": "1"
+    },
+    {
+        "nid": "STEAL_ATK",
+        "expression": "SPD"
+    },
+    {
+        "nid": "STEAL_DEF",
+        "expression": "SPD"
+    },
+    {
+        "nid": "HEAL",
+        "expression": "POW+10"
+    },
+    {
+        "nid": "CONSTITUTION",
+        "expression": "0"
+    },
+    {
+        "nid": "INITIATIVE",
+        "expression": "SPD"
+    },
+    {
+        "nid": "MANA",
+        "expression": "ManaStat"
+    },
+    {
+        "nid": "ZERO",
+        "expression": "0"
+    },
+    {
+        "nid": "NATECRIT",
+        "expression": "LTH"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "nid": "Killing_Edge",
+        "name": "Killing Edge",
+        "desc": "A blade honed to a deadly sheen.",
+        "icon_nid": "Sword",
+        "icon_index": [
+            0,
+            11
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                1
+            ],
+            [
+                "damage",
+                7
+            ],
+            [
+                "hit",
+                85
+            ],
+            [
+                "crit",
+                40
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "weapon_type",
+                "Sword"
+            ],
+            [
+                "weapon_rank",
+                "*"
+            ],
+            [
+                "warning",
+                null
+            ],
+            [
+                "stat_change",
+                [
+                    [
+                        "SPD",
+                        -2
+                    ]
+                ]
+            ]
+        ]
+    }
+]

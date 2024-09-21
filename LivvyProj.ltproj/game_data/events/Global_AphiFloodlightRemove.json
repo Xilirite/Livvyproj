@@ -1,0 +1,16 @@
+[
+    {
+        "name": "AphiFloodlightRemove",
+        "trigger": null,
+        "level_nid": null,
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "remove_skill;Aphi;Floodlight;no_banner",
+            "remove_skill;Aphi;Purity;no_banner"
+        ],
+        "nid": "Global AphiFloodlightRemove"
+    }
+]

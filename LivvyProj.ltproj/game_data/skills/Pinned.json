@@ -1,0 +1,31 @@
+[
+    {
+        "nid": "Pinned",
+        "name": "Pinned",
+        "desc": "Target is pinned, losing 4 MOV and 10 EVA until next turn.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            7,
+            6
+        ],
+        "components": [
+            [
+                "stat_change",
+                [
+                    [
+                        "MOV",
+                        -4
+                    ],
+                    [
+                        "EVA",
+                        -10
+                    ]
+                ]
+            ],
+            [
+                "negative",
+                null
+            ]
+        ]
+    }
+]

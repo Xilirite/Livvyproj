@@ -1,0 +1,137 @@
+[
+    {
+        "nid": "Arch_Mogall",
+        "name": "Arch Mogall",
+        "desc": "A summoned phantom.",
+        "tier": 2,
+        "movement_group": "Fliers",
+        "promotes_from": "Mogall",
+        "turns_into": [],
+        "tags": [
+            "Flying",
+            "Monster"
+        ],
+        "max_level": 20,
+        "bases": {
+            "HP": 17,
+            "SPD": 3,
+            "DEF": 3,
+            "RES": 47,
+            "MOV": 6,
+            "POW": 0,
+            "ACC": 3,
+            "LTH": 0,
+            "EVA": 0,
+            "ManaStat": 0
+        },
+        "growths": {
+            "HP": 45,
+            "SPD": 25,
+            "DEF": 10,
+            "RES": 28,
+            "MOV": 0,
+            "POW": 0,
+            "ACC": 30,
+            "LTH": 0,
+            "EVA": 20,
+            "ManaStat": 0
+        },
+        "growth_bonus": {
+            "HP": 0,
+            "SPD": 0,
+            "DEF": 0,
+            "RES": 0,
+            "MOV": 0,
+            "POW": 0,
+            "ACC": 0,
+            "LTH": 0,
+            "EVA": 0,
+            "ManaStat": 0
+        },
+        "promotion": {
+            "HP": 0,
+            "SPD": 0,
+            "DEF": 0,
+            "RES": 0,
+            "MOV": 0,
+            "POW": 0,
+            "ACC": 0,
+            "LTH": 0,
+            "EVA": 0,
+            "ManaStat": 0
+        },
+        "max_stats": {
+            "HP": 60,
+            "SPD": 26,
+            "DEF": 20,
+            "RES": 29,
+            "MOV": 15,
+            "POW": 20,
+            "ACC": 26,
+            "LTH": 30,
+            "EVA": 30,
+            "ManaStat": 30
+        },
+        "learned_skills": [],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                0,
+                1
+            ],
+            "Lance": [
+                false,
+                0,
+                1
+            ],
+            "Axe": [
+                false,
+                0,
+                1
+            ],
+            "Bow": [
+                false,
+                0,
+                1
+            ],
+            "Staff": [
+                false,
+                0,
+                1
+            ],
+            "Light": [
+                false,
+                0,
+                1
+            ],
+            "Anima": [
+                true,
+                181,
+                1
+            ],
+            "Dark": [
+                true,
+                181,
+                1
+            ],
+            "Default": [
+                false,
+                0,
+                1
+            ],
+            "Magic": [
+                true,
+                181,
+                1
+            ]
+        },
+        "icon_nid": "Generic_Portrait_Arch_Mogall",
+        "icon_index": [
+            0,
+            0
+        ],
+        "map_sprite_nid": "Arch_Mogall",
+        "combat_anim_nid": null,
+        "fields": []
+    }
+]

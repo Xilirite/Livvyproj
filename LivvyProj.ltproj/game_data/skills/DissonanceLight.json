@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "DissonanceLight",
+        "name": "Dissonance",
+        "desc": "Harmony's effects linger after combat, granting +1 to the affected stats, stacking up to 3 times.\nAt 3 stacks, also gain -5 to the opposite stats. Using the opposing element clears all stacks.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            2,
+            0
+        ],
+        "components": [
+            [
+                "class_skill",
+                null
+            ],
+            [
+                "gain_skill_after_combat",
+                "Purity"
+            ],
+            [
+                "condition",
+                "'Light' in unit.get_weapon().tags"
+            ]
+        ]
+    }
+]

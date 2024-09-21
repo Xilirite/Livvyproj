@@ -1,0 +1,38 @@
+[
+    {
+        "nid": "ChromaticSplashItem",
+        "name": "Chromatic Splash",
+        "desc": "Zo unleashes a splash of colour with her next attack, reducing enemy DEF/RES/EVA by 5 in a 2 tile radius.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            10,
+            1
+        ],
+        "components": [
+            [
+                "spell",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                3
+            ],
+            [
+                "enemy_blast_aoe",
+                2
+            ],
+            [
+                "status_on_hit",
+                "ChromaticallyGunked"
+            ],
+            [
+                "target_tile",
+                null
+            ]
+        ]
+    }
+]

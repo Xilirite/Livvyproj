@@ -1,0 +1,39 @@
+[
+    {
+        "nid": "Purity",
+        "name": "Purity",
+        "desc": "+1 ACC/LTH/SPD per stack, up to 3.\nIf Aphi has max stacks at the start of her turn, she gains Floodlight.",
+        "icon_nid": "Affinity",
+        "icon_index": [
+            0,
+            6
+        ],
+        "components": [
+            [
+                "stack",
+                3
+            ],
+            [
+                "stat_change",
+                [
+                    [
+                        "ACC",
+                        1
+                    ],
+                    [
+                        "LTH",
+                        1
+                    ],
+                    [
+                        "SPD",
+                        1
+                    ]
+                ]
+            ],
+            [
+                "lost_on_end_chapter",
+                null
+            ]
+        ]
+    }
+]

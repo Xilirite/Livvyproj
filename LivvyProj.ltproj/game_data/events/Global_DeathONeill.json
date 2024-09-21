@@ -1,0 +1,18 @@
+[
+    {
+        "name": "DeathONeill",
+        "trigger": "unit_death",
+        "level_nid": null,
+        "condition": "unit.nid == \"Greggy\"",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Greggy;Left",
+            "speak;Greggy;Gwah!",
+            "expression;Greggy;CloseEyes",
+            "remove_portrait;Greggy"
+        ],
+        "nid": "Global DeathONeill"
+    }
+]

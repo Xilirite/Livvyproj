@@ -1,0 +1,145 @@
+[
+    {
+        "nid": "Wall25",
+        "name": "Wall",
+        "desc": "",
+        "tier": 1,
+        "movement_group": "Light Foot",
+        "promotes_from": null,
+        "turns_into": [],
+        "tags": [
+            "Tile"
+        ],
+        "max_level": 20,
+        "bases": {
+            "HP": 25,
+            "SPD": 40,
+            "DEF": 0,
+            "RES": 0,
+            "MOV": 0,
+            "POW": 0,
+            "ACC": 0,
+            "LTH": 0,
+            "EVA": 0,
+            "ManaStat": 0
+        },
+        "growths": {
+            "HP": 0,
+            "SPD": 0,
+            "DEF": 0,
+            "RES": 0,
+            "MOV": 0,
+            "POW": 0,
+            "ACC": 0,
+            "LTH": 0,
+            "EVA": 0,
+            "ManaStat": 0
+        },
+        "growth_bonus": {
+            "HP": 0,
+            "SPD": 0,
+            "DEF": 0,
+            "RES": 0,
+            "MOV": 0,
+            "POW": 0,
+            "ACC": 0,
+            "LTH": 0,
+            "EVA": 0,
+            "ManaStat": 0
+        },
+        "promotion": {
+            "HP": 0,
+            "SPD": 0,
+            "DEF": 0,
+            "RES": 0,
+            "MOV": 0,
+            "POW": 0,
+            "ACC": 0,
+            "LTH": 0,
+            "EVA": 0,
+            "ManaStat": 0
+        },
+        "max_stats": {
+            "HP": 30,
+            "SPD": 40,
+            "DEF": 30,
+            "RES": 30,
+            "MOV": 30,
+            "POW": 30,
+            "ACC": 30,
+            "LTH": 30,
+            "EVA": 30,
+            "ManaStat": 30
+        },
+        "learned_skills": [
+            [
+                1,
+                "NoAvoid"
+            ],
+            [
+                1,
+                "Void_Curse"
+            ]
+        ],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                0,
+                1
+            ],
+            "Lance": [
+                false,
+                0,
+                1
+            ],
+            "Axe": [
+                false,
+                0,
+                1
+            ],
+            "Bow": [
+                false,
+                0,
+                1
+            ],
+            "Staff": [
+                false,
+                0,
+                1
+            ],
+            "Light": [
+                false,
+                0,
+                1
+            ],
+            "Anima": [
+                false,
+                0,
+                1
+            ],
+            "Dark": [
+                false,
+                0,
+                1
+            ],
+            "Default": [
+                false,
+                0,
+                1
+            ],
+            "Magic": [
+                false,
+                0,
+                1
+            ]
+        },
+        "icon_nid": "Generic_Portrait_Citizen",
+        "icon_index": [
+            0,
+            0
+        ],
+        "map_sprite_nid": "Invisible",
+        "combat_anim_nid": null,
+        "fields": []
+    }
+]

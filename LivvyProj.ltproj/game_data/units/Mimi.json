@@ -1,0 +1,106 @@
+[
+    {
+        "nid": "Mimi",
+        "name": "Mimi",
+        "desc": "A friendly cloth creature! Once a\nhuman child, now given new life via\nancient ritual and familial love.",
+        "variant": "",
+        "level": 1,
+        "klass": "Shaman",
+        "tags": [],
+        "bases": {
+            "HP": 17,
+            "SPD": 7,
+            "DEF": 3,
+            "RES": 5,
+            "MOV": 5,
+            "POW": 0,
+            "ACC": 6,
+            "LTH": 0,
+            "EVA": 8,
+            "ManaStat": 10
+        },
+        "growths": {
+            "HP": 45,
+            "SPD": 45,
+            "DEF": 15,
+            "RES": 40,
+            "MOV": 0,
+            "POW": 0,
+            "ACC": 30,
+            "LTH": 0,
+            "EVA": 45,
+            "ManaStat": 0
+        },
+        "stat_cap_modifiers": {
+            "RES": 0,
+            "SPD": 0,
+            "HP": 0,
+            "MOV": 0,
+            "DEF": 0,
+            "POW": 0,
+            "ACC": 0,
+            "LTH": 0,
+            "EVA": 0,
+            "ManaStat": 0
+        },
+        "starting_items": [],
+        "learned_skills": [],
+        "unit_notes": [],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                0,
+                251
+            ],
+            "Lance": [
+                false,
+                0,
+                251
+            ],
+            "Axe": [
+                false,
+                0,
+                251
+            ],
+            "Bow": [
+                false,
+                0,
+                251
+            ],
+            "Staff": [
+                false,
+                0,
+                251
+            ],
+            "Light": [
+                false,
+                0,
+                251
+            ],
+            "Anima": [
+                true,
+                71,
+                251
+            ],
+            "Dark": [
+                false,
+                0,
+                251
+            ],
+            "Default": [
+                false,
+                0,
+                251
+            ],
+            "Magic": [
+                true,
+                1,
+                251
+            ]
+        },
+        "alternate_classes": [],
+        "portrait_nid": "Mimi",
+        "affinity": "Anima",
+        "fields": []
+    }
+]

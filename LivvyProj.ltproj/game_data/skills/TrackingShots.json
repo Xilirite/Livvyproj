@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "TrackingShots",
+        "name": "Tracking Shots",
+        "desc": "Mae's arrows mark her targets, decreasing their EVA by 10 after combat.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            1,
+            8
+        ],
+        "components": [
+            [
+                "class_skill",
+                null
+            ],
+            [
+                "give_status_after_combat",
+                "Tracked"
+            ]
+        ]
+    }
+]

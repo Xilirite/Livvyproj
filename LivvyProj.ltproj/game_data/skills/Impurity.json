@@ -1,0 +1,39 @@
+[
+    {
+        "nid": "Impurity",
+        "name": "Impurity",
+        "desc": "+1 POW/DEF/RES per stack, up to 3.\nIf Aphi has max stacks at the start of her turn, she gains Suffocating Darkness.",
+        "icon_nid": "Affinity",
+        "icon_index": [
+            0,
+            1
+        ],
+        "components": [
+            [
+                "stack",
+                3
+            ],
+            [
+                "stat_change",
+                [
+                    [
+                        "POW",
+                        1
+                    ],
+                    [
+                        "DEF",
+                        1
+                    ],
+                    [
+                        "RES",
+                        1
+                    ]
+                ]
+            ],
+            [
+                "lost_on_end_chapter",
+                null
+            ]
+        ]
+    }
+]

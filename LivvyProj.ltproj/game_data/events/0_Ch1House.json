@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Ch1House",
+        "trigger": "Visit",
+        "level_nid": "0",
+        "condition": "region.nid == 'Ch1House'",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "give_money;30;LivvyParty"
+        ],
+        "nid": "0 Ch1House"
+    }
+]

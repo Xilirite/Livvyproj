@@ -1,0 +1,35 @@
+[
+    {
+        "nid": "CurvedShotArt",
+        "name": "Curved Shot",
+        "desc": "An arced shot with +1 range, +5 ACC, and +3 Damage. Can't double.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            5,
+            9
+        ],
+        "components": [
+            [
+                "stat_change",
+                [
+                    [
+                        "ACC",
+                        5
+                    ]
+                ]
+            ],
+            [
+                "modify_maximum_range",
+                1
+            ],
+            [
+                "damage",
+                3
+            ],
+            [
+                "cannot_double",
+                null
+            ]
+        ]
+    }
+]

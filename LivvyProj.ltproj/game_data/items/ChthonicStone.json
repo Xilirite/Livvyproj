@@ -1,0 +1,32 @@
+[
+    {
+        "nid": "ChthonicStone",
+        "name": "Chthonic Stone",
+        "desc": "A magical artifact with strange ties to Aphi.\nGain 1 extra Mana after combat, but start chapter with 0 Mana.",
+        "icon_nid": "Neutral",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "equippable_accessory",
+                null
+            ],
+            [
+                "prf_unit",
+                [
+                    "Aphi"
+                ]
+            ],
+            [
+                "locked",
+                null
+            ],
+            [
+                "status_on_equip",
+                "CthonicCurse"
+            ]
+        ]
+    }
+]

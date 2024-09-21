@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "SpecialMove",
+        "name": "Special Move!",
+        "desc": "Nate uses his special move, guaranteeing a critical hit with +10 ACC.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            6,
+            0
+        ],
+        "components": [
+            [
+                "class_skill",
+                null
+            ],
+            [
+                "combat_art",
+                "SpecialMoveArt"
+            ],
+            [
+                "drain_charge",
+                1
+            ]
+        ]
+    }
+]

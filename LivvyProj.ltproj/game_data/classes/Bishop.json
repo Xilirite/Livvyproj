@@ -1,0 +1,139 @@
+[
+    {
+        "nid": "Bishop",
+        "name": "Bishop",
+        "desc": "Mages gifted with visions of the future.",
+        "tier": 2,
+        "movement_group": "Mages",
+        "promotes_from": "Cleric",
+        "turns_into": [],
+        "tags": [],
+        "max_level": 20,
+        "bases": {
+            "HP": 21,
+            "SPD": 4,
+            "DEF": 3,
+            "RES": 9,
+            "MOV": 6,
+            "POW": 0,
+            "ACC": 5,
+            "LTH": 0,
+            "EVA": 0,
+            "ManaStat": 0
+        },
+        "growths": {
+            "HP": 45,
+            "SPD": 22,
+            "DEF": 8,
+            "RES": 50,
+            "MOV": 0,
+            "POW": 0,
+            "ACC": 25,
+            "LTH": 0,
+            "EVA": 40,
+            "ManaStat": 0
+        },
+        "growth_bonus": {
+            "HP": 0,
+            "SPD": 0,
+            "DEF": 0,
+            "RES": 0,
+            "MOV": 0,
+            "POW": 0,
+            "ACC": 0,
+            "LTH": 0,
+            "EVA": 0,
+            "ManaStat": 0
+        },
+        "promotion": {
+            "HP": 3,
+            "SPD": 1,
+            "DEF": 3,
+            "RES": 2,
+            "MOV": -99,
+            "POW": 0,
+            "ACC": 2,
+            "LTH": 0,
+            "EVA": 0,
+            "ManaStat": 0
+        },
+        "max_stats": {
+            "HP": 60,
+            "SPD": 26,
+            "DEF": 22,
+            "RES": 30,
+            "MOV": 15,
+            "POW": 20,
+            "ACC": 26,
+            "LTH": 30,
+            "EVA": 30,
+            "ManaStat": 30
+        },
+        "learned_skills": [
+            [
+                1,
+                "Slayer"
+            ]
+        ],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                0,
+                1
+            ],
+            "Lance": [
+                false,
+                0,
+                1
+            ],
+            "Axe": [
+                false,
+                0,
+                1
+            ],
+            "Bow": [
+                false,
+                0,
+                1
+            ],
+            "Magic": [
+                true,
+                1,
+                1
+            ],
+            "Default": [
+                false,
+                0,
+                1
+            ],
+            "Staff": [
+                true,
+                1,
+                1
+            ],
+            "Light": [
+                true,
+                16,
+                1
+            ],
+            "Anima": [
+                true,
+                17,
+                1
+            ],
+            "Dark": [
+                false,
+                0,
+                1
+            ]
+        },
+        "icon_nid": "Generic_Portrait_Bishop",
+        "icon_index": [
+            0,
+            0
+        ],
+        "map_sprite_nid": "Bishop",
+        "combat_anim_nid": "Bishop",
+        "fields": []
+    }
+]

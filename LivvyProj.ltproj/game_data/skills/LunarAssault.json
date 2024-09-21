@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "LunarAssault",
+        "name": "Lunar Assault",
+        "desc": "Sonu is deadliest up close and personal. Only usable at 1 range, this attack ignores enemy defense.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            4,
+            3
+        ],
+        "components": [
+            [
+                "class_skill",
+                null
+            ],
+            [
+                "combat_art",
+                "LunarAssaultArt"
+            ]
+        ]
+    }
+]

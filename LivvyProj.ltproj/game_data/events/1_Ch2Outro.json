@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Ch2Outro",
+        "trigger": "level_end",
+        "level_nid": "1",
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "give_money;100;LivvyParty"
+        ],
+        "nid": "1 Ch2Outro"
+    }
+]

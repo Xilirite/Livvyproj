@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "PinningShot",
+        "name": "Pinning Shot",
+        "desc": "Sonu shoots for the legs, reducing her Damage by 50% and Hit by 15.\nIf she hits, target loses 4 MOV and 10 EVA until Sonu's next turn.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            7,
+            6
+        ],
+        "components": [
+            [
+                "class_skill",
+                null
+            ],
+            [
+                "combat_art",
+                "PinningShotArt"
+            ]
+        ]
+    }
+]

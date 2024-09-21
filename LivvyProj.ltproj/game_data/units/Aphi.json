@@ -1,0 +1,132 @@
+[
+    {
+        "nid": "Aphi",
+        "name": "Aphi",
+        "desc": "A magical prodigy and researcher.\nHer work ethic and enthusiasm are\ntempered by her eccentricity.",
+        "variant": "Female",
+        "level": 3,
+        "klass": "Mage",
+        "tags": [],
+        "bases": {
+            "HP": 20,
+            "SPD": 6,
+            "DEF": 1,
+            "RES": 5,
+            "MOV": 5,
+            "POW": 6,
+            "ACC": 7,
+            "LTH": 0,
+            "EVA": 1,
+            "ManaStat": 8
+        },
+        "growths": {
+            "HP": 70,
+            "SPD": 40,
+            "DEF": 25,
+            "RES": 25,
+            "MOV": 0,
+            "POW": 50,
+            "ACC": 50,
+            "LTH": 0,
+            "EVA": 20,
+            "ManaStat": 0
+        },
+        "stat_cap_modifiers": {
+            "RES": 0,
+            "SPD": 0,
+            "HP": 0,
+            "MOV": 0,
+            "DEF": 0,
+            "POW": 0,
+            "ACC": 0,
+            "LTH": 0,
+            "EVA": 0,
+            "ManaStat": 0
+        },
+        "starting_items": [
+            [
+                "ChthonicStone",
+                false
+            ]
+        ],
+        "learned_skills": [
+            [
+                1,
+                "AphiSpellbook"
+            ],
+            [
+                1,
+                "Harmony"
+            ],
+            [
+                1,
+                "HarmonySecondHalf"
+            ],
+            [
+                1,
+                "DissonanceLight"
+            ],
+            [
+                1,
+                "DissonanceDark"
+            ]
+        ],
+        "unit_notes": [],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                0,
+                251
+            ],
+            "Lance": [
+                false,
+                0,
+                251
+            ],
+            "Axe": [
+                false,
+                0,
+                251
+            ],
+            "Bow": [
+                false,
+                0,
+                251
+            ],
+            "Staff": [
+                true,
+                71,
+                251
+            ],
+            "Light": [
+                false,
+                0,
+                251
+            ],
+            "Anima": [
+                false,
+                71,
+                251
+            ],
+            "Dark": [
+                false,
+                0,
+                251
+            ],
+            "Default": [
+                false,
+                0,
+                251
+            ],
+            "Magic": [
+                false,
+                1,
+                251
+            ]
+        },
+        "alternate_classes": [],
+        "portrait_nid": "Aphi",
+        "affinity": "Anima",
+        "fields": []
+    }
+]

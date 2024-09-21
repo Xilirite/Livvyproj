@@ -1,0 +1,82 @@
+[
+    {
+        "nid": "HP",
+        "name": "HP",
+        "maximum": 50,
+        "desc": "Hit Points. If you run out, you die!!!",
+        "position": "hidden",
+        "growth_colors": false
+    },
+    {
+        "nid": "POW",
+        "name": "Pow",
+        "maximum": 20,
+        "desc": "Power. Damage dealt increases per point.",
+        "position": "left",
+        "growth_colors": false
+    },
+    {
+        "nid": "ACC",
+        "name": "Acc",
+        "maximum": 20,
+        "desc": "Accuracy. +3 Hit per point.",
+        "position": "left",
+        "growth_colors": false
+    },
+    {
+        "nid": "LTH",
+        "name": "Lth",
+        "maximum": 20,
+        "desc": "Lethality. +2 Crit per point.",
+        "position": "left",
+        "growth_colors": false
+    },
+    {
+        "nid": "SPD",
+        "name": "Spd",
+        "maximum": 20,
+        "desc": "Speed. Higher speed allows unit to attack twice.",
+        "position": "left",
+        "growth_colors": false
+    },
+    {
+        "nid": "EVA",
+        "name": "Eva",
+        "maximum": 20,
+        "desc": "Evasion. +2 Avoid and +1 Dodge per point.",
+        "position": "right",
+        "growth_colors": false
+    },
+    {
+        "nid": "DEF",
+        "name": "Def",
+        "maximum": 20,
+        "desc": "Defense. Reduces physical damage per point.",
+        "position": "left",
+        "growth_colors": false
+    },
+    {
+        "nid": "RES",
+        "name": "Res",
+        "maximum": 20,
+        "desc": "Resistance. Reduces magical damage per point.",
+        "position": "left",
+        "growth_colors": false
+    },
+    {
+        "nid": "MOV",
+        "name": "Move",
+        "maximum": 20,
+        "desc": "Increases how many tiles unit can move per action.",
+        "position": "right",
+        "growth_colors": false
+    },
+    {
+        "nid": "ManaStat",
+        "name": "Mana",
+        "maximum": 30,
+        "desc": "you can't see this",
+        "position": "hidden",
+        "growth_colors": false
+    }
+]

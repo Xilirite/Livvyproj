@@ -1,0 +1,43 @@
+[
+    {
+        "nid": "HarmonySecondHalf",
+        "name": "Harmony",
+        "desc": "When using Light magic, Aphi gains +2 ACC/LTH/SPD\nWhen using Dark magic, Aphi gains +2 POW/DEF/RES",
+        "icon_nid": "Skills",
+        "icon_index": [
+            8,
+            0
+        ],
+        "components": [
+            [
+                "hidden",
+                null
+            ],
+            [
+                "stat_change",
+                [
+                    [
+                        "POW",
+                        2
+                    ],
+                    [
+                        "DEF",
+                        2
+                    ],
+                    [
+                        "RES",
+                        2
+                    ]
+                ]
+            ],
+            [
+                "condition",
+                "'Dark' in unit.get_weapon().tags"
+            ],
+            [
+                "event_after_combat",
+                "Global AphiFloodlightRemove"
+            ]
+        ]
+    }
+]

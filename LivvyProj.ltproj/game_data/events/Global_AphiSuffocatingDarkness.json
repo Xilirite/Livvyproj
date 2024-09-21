@@ -1,0 +1,18 @@
+[
+    {
+        "name": "AphiSuffocatingDarkness",
+        "trigger": "combat_end",
+        "level_nid": null,
+        "condition": "unit.nid == 'Aphi' and has_skill(unit, 'Purity')",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "lvar;impurity_stacks;len([s for s in game.get_unit('Aphi').skills if s.nid == 'Impurity'])",
+            "if;v('impurity_stacks') == 5",
+            "    give_skill;Aphi;SuffocatingDarkness;no_banner",
+            "end"
+        ],
+        "nid": "Global AphiSuffocatingDarkness"
+    }
+]

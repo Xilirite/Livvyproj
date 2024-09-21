@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "DistantCounter",
+        "name": "Distant Counter",
+        "desc": "Unit can counter ranged attacks.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            4,
+            9
+        ],
+        "components": [
+            [
+                "distant_counter",
+                null
+            ],
+            [
+                "class_skill",
+                null
+            ]
+        ]
+    }
+]

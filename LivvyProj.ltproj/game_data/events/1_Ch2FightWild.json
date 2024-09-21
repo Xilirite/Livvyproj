@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Ch2FightWild",
+        "trigger": "combat_start",
+        "level_nid": "1",
+        "condition": "(unit.nid == \"Wild\" and unit2.team == 'player') or (unit2.nid == \"Wild\" and unit.team == 'player')",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Wild;Left",
+            "speak;Wild;You're attacking me? Wow?? You are stupid as hell???|I'm literally invincible???? Die?????",
+            "remove_portrait;Wild"
+        ],
+        "nid": "1 Ch2FightWild"
+    }
+]

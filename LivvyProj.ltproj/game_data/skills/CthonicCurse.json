@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "CthonicCurse",
+        "name": "Chthonic Curse",
+        "desc": "Unit gains +1 Mana on lethal blows.",
+        "icon_nid": "Neutral",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "mana_on_kill",
+                1
+            ]
+        ]
+    }
+]

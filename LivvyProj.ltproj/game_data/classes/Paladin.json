@@ -1,0 +1,142 @@
+[
+    {
+        "nid": "Paladin",
+        "name": "Paladin",
+        "desc": "The backbone of any military force.",
+        "tier": 2,
+        "movement_group": "Heavy Cav",
+        "promotes_from": "Cavalier",
+        "turns_into": [],
+        "tags": [
+            "Horse",
+            "Mounted"
+        ],
+        "max_level": 20,
+        "bases": {
+            "HP": 24,
+            "SPD": 5,
+            "DEF": 7,
+            "MOV": 8,
+            "RES": 5,
+            "POW": 6,
+            "ACC": 4,
+            "LTH": 0,
+            "EVA": 5,
+            "ManaStat": 0
+        },
+        "growths": {
+            "HP": 60,
+            "SPD": 30,
+            "DEF": 30,
+            "MOV": 0,
+            "RES": 20,
+            "POW": 30,
+            "ACC": 30,
+            "LTH": 0,
+            "EVA": 26,
+            "ManaStat": 0
+        },
+        "growth_bonus": {
+            "HP": 0,
+            "SPD": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "RES": 0,
+            "POW": 0,
+            "ACC": 0,
+            "LTH": 0,
+            "EVA": 0,
+            "ManaStat": 0
+        },
+        "promotion": {
+            "HP": 3,
+            "SPD": 1,
+            "DEF": 2,
+            "MOV": -99,
+            "RES": 2,
+            "POW": 2,
+            "ACC": 1,
+            "LTH": 0,
+            "EVA": 1,
+            "ManaStat": 0
+        },
+        "max_stats": {
+            "HP": 80,
+            "SPD": 30,
+            "DEF": 30,
+            "MOV": 15,
+            "RES": 30,
+            "POW": 30,
+            "ACC": 30,
+            "LTH": 30,
+            "EVA": 30,
+            "ManaStat": 30
+        },
+        "learned_skills": [
+            [
+                1,
+                "Canto"
+            ]
+        ],
+        "wexp_gain": {
+            "Sword": [
+                true,
+                1,
+                1
+            ],
+            "Lance": [
+                true,
+                1,
+                1
+            ],
+            "Axe": [
+                true,
+                1,
+                1
+            ],
+            "Bow": [
+                false,
+                0,
+                1
+            ],
+            "Magic": [
+                false,
+                0,
+                1
+            ],
+            "Default": [
+                false,
+                0,
+                1
+            ],
+            "Staff": [
+                false,
+                0,
+                1
+            ],
+            "Light": [
+                false,
+                0,
+                1
+            ],
+            "Anima": [
+                false,
+                0,
+                1
+            ],
+            "Dark": [
+                false,
+                0,
+                1
+            ]
+        },
+        "icon_nid": "Generic_Portrait_Paladin",
+        "icon_index": [
+            0,
+            0
+        ],
+        "map_sprite_nid": "Paladin",
+        "combat_anim_nid": "Paladin",
+        "fields": []
+    }
+]

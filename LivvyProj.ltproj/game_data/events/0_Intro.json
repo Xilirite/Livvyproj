@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Intro",
+        "trigger": "level_start",
+        "level_nid": "0",
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_group;Players",
+            "spaw",
+            ""
+        ],
+        "nid": "0 Intro"
+    }
+]
