@@ -11,11 +11,11 @@
         ],
         "bases": {
             "HP": 30,
-            "SPD": 8,
+            "SPD": 6,
             "DEF": 7,
             "MOV": 4,
             "RES": 7,
-            "POW": 15,
+            "POW": 12,
             "ACC": 10,
             "LTH": 0,
             "EVA": 5,
@@ -120,7 +120,7 @@
         },
         "alternate_classes": [],
         "portrait_nid": "Wild",
-        "affinity": null,
+        "affinity": "Fire",
         "fields": []
     }
 ]

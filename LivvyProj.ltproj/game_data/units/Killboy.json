@@ -1,24 +1,24 @@
 [
     {
-        "nid": "Bazba",
-        "name": "Bazba",
-        "desc": "The leader of Bazba's bandits.",
+        "nid": "Killboy",
+        "name": "Killboy",
+        "desc": "This boy kills !",
         "variant": "",
-        "level": 6,
-        "klass": "Swordmaster",
+        "level": 7,
+        "klass": "Archer",
         "tags": [
             "Boss"
         ],
         "bases": {
-            "HP": 26,
-            "SPD": 8,
-            "DEF": 5,
+            "HP": 29,
+            "SPD": 9,
+            "DEF": 7,
             "MOV": 5,
             "RES": 3,
-            "POW": 9,
-            "ACC": 6,
+            "POW": 15,
+            "ACC": 12,
             "LTH": 0,
-            "EVA": 0,
+            "EVA": 9,
             "ManaStat": 0
         },
         "growths": {
@@ -47,15 +47,20 @@
         },
         "starting_items": [
             [
-                "Steel_Axe",
-                false
-            ],
-            [
-                "Hand_Axe",
+                "Iron_Bow",
                 false
             ]
         ],
-        "learned_skills": [],
+        "learned_skills": [
+            [
+                1,
+                "Survivor"
+            ],
+            [
+                1,
+                "DistantCounter"
+            ]
+        ],
         "unit_notes": [],
         "wexp_gain": {
             "Sword": [
@@ -70,12 +75,12 @@
             ],
             "Axe": [
                 true,
-                71,
+                0,
                 251
             ],
             "Bow": [
                 false,
-                0,
+                1,
                 251
             ],
             "Staff": [
@@ -111,7 +116,7 @@
         },
         "alternate_classes": [],
         "portrait_nid": "Bazba",
-        "affinity": "None",
+        "affinity": "Dark",
         "fields": []
     }
 ]

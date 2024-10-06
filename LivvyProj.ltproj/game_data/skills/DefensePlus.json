@@ -1,0 +1,36 @@
+[
+    {
+        "nid": "DefensePlus",
+        "name": "Defense+",
+        "desc": "Grants additional DEF.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            5,
+            5
+        ],
+        "components": [
+            [
+                "stat_change",
+                [
+                    [
+                        "DEF",
+                        4
+                    ]
+                ]
+            ],
+            [
+                "time",
+                4
+            ],
+            [
+                "upkeep_stat_change",
+                [
+                    [
+                        "DEF",
+                        -1
+                    ]
+                ]
+            ]
+        ]
+    }
+]

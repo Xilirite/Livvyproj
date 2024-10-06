@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "Coldsnap",
+        "name": "Coldsnap",
+        "desc": "Zanos's magic chills the air around\nthem, inflicting -2 SPD/-5 EVA\non all foes within 2 tiles.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            5,
+            3
+        ],
+        "components": [
+            [
+                "aura",
+                "Chilled"
+            ],
+            [
+                "aura_range",
+                2
+            ],
+            [
+                "aura_target",
+                "enemy"
+            ],
+            [
+                "class_skill",
+                null
+            ]
+        ]
+    }
+]

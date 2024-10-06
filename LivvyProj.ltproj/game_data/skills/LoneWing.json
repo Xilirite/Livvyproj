@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "LoneWing",
+        "name": "Lone Wing",
+        "desc": "After initiating combat, if there\nare no allies within 2 tiles, Rose\ncan move up to 3 extra tiles.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            3,
+            10
+        ],
+        "components": [
+            [
+                "class_skill",
+                null
+            ],
+            [
+                "canter",
+                3
+            ],
+            [
+                "condition",
+                "unit_funcs.check_focus(unit, 2) == 0"
+            ]
+        ]
+    }
+]

@@ -33,8 +33,8 @@
                 "roam_ai": null,
                 "ai_group": null,
                 "starting_position": [
-                    2,
-                    11
+                    15,
+                    7
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -46,8 +46,8 @@
                 "roam_ai": null,
                 "ai_group": null,
                 "starting_position": [
-                    1,
-                    12
+                    13,
+                    1
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -59,8 +59,8 @@
                 "roam_ai": null,
                 "ai_group": null,
                 "starting_position": [
-                    0,
-                    11
+                    15,
+                    8
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -72,8 +72,8 @@
                 "roam_ai": null,
                 "ai_group": null,
                 "starting_position": [
-                    1,
-                    8
+                    15,
+                    4
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -85,8 +85,8 @@
                 "roam_ai": null,
                 "ai_group": null,
                 "starting_position": [
-                    2,
-                    13
+                    13,
+                    4
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -98,21 +98,21 @@
                 "roam_ai": null,
                 "ai_group": null,
                 "starting_position": [
-                    3,
-                    12
+                    13,
+                    8
                 ],
                 "starting_traveler": null,
                 "generic": false
             },
             {
-                "nid": "Ted",
+                "nid": "Sonu",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
-                "ai_group": null,
+                "ai_group": "",
                 "starting_position": [
-                    3,
-                    10
+                    14,
+                    6
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -124,8 +124,8 @@
                 "roam_ai": null,
                 "ai_group": null,
                 "starting_position": [
-                    2,
-                    9
+                    15,
+                    1
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -137,339 +137,24 @@
                 "roam_ai": null,
                 "ai_group": null,
                 "starting_position": [
-                    1,
-                    10
+                    14,
+                    7
                 ],
                 "starting_traveler": null,
                 "generic": false
             },
             {
-                "nid": "Ostrava",
-                "team": "other",
-                "ai": "Thief",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": null,
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Bazba",
+                "nid": "Killboy",
                 "team": "enemy",
                 "ai": "Boss",
                 "roam_ai": null,
                 "ai_group": null,
                 "starting_position": [
                     14,
-                    1
+                    2
                 ],
                 "starting_traveler": null,
                 "generic": false
-            },
-            {
-                "nid": "101",
-                "variant": null,
-                "level": 3,
-                "klass": "Brigand",
-                "faction": "Cutthroat",
-                "starting_items": [
-                    [
-                        "Axe",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "MoveIn2",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    7,
-                    2
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "102",
-                "variant": null,
-                "level": 3,
-                "klass": "Brigand",
-                "faction": "Cutthroat",
-                "starting_items": [
-                    [
-                        "Hand_Axe",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "MoveIn2",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    9,
-                    8
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "103",
-                "variant": null,
-                "level": 4,
-                "klass": "Brigand",
-                "faction": "Cutthroat",
-                "starting_items": [
-                    [
-                        "Hand_Axe",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "MoveIn2",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    14,
-                    11
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "104",
-                "variant": null,
-                "level": 3,
-                "klass": "Brigand",
-                "faction": "Cutthroat",
-                "starting_items": [
-                    [
-                        "Axe",
-                        false
-                    ],
-                    [
-                        "Door_Key",
-                        true
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "MoveIn2",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    5,
-                    9
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "105",
-                "variant": null,
-                "level": 3,
-                "klass": "Brigand",
-                "faction": "Cutthroat",
-                "starting_items": [
-                    [
-                        "Axe",
-                        false
-                    ],
-                    [
-                        "Chest_Key",
-                        true
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "MoveIn2",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    7,
-                    12
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "106",
-                "variant": null,
-                "level": 2,
-                "klass": "Brigand",
-                "faction": "Cutthroat",
-                "starting_items": [
-                    [
-                        "Steel_Axe",
-                        false
-                    ],
-                    [
-                        "Pure_Water",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "MoveIn2",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    14,
-                    6
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "107",
-                "variant": null,
-                "level": 2,
-                "klass": "Mercenary",
-                "faction": "Cutthroat",
-                "starting_items": [
-                    [
-                        "Sword",
-                        false
-                    ],
-                    [
-                        "Pure_Water",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "MoveIn2",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    15,
-                    2
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "108",
-                "variant": null,
-                "level": 4,
-                "klass": "Archer",
-                "faction": "Cutthroat",
-                "starting_items": [
-                    [
-                        "Bow",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "MoveIn2",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    12,
-                    9
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "109",
-                "variant": null,
-                "level": 4,
-                "klass": "Thief",
-                "faction": "Cutthroat",
-                "starting_items": [
-                    [
-                        "Sword",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "SimpleThief",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    9,
-                    11
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "Wall1",
-                "variant": null,
-                "level": 1,
-                "klass": "Wall25",
-                "faction": "Wall",
-                "starting_items": [],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    4,
-                    12
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "Wall2",
-                "variant": null,
-                "level": 1,
-                "klass": "Wall25",
-                "faction": "Wall",
-                "starting_items": [],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    4,
-                    9
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "Wall3",
-                "variant": null,
-                "level": 1,
-                "klass": "Wall25",
-                "faction": "Wall",
-                "starting_items": [],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    8,
-                    8
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "Placeholder",
-                "variant": null,
-                "level": 1,
-                "klass": "Citizen",
-                "faction": "Soldier",
-                "starting_items": [],
-                "starting_skills": [],
-                "team": "other",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": null,
-                "starting_traveler": null,
-                "generic": true
             }
         ],
         "regions": [
@@ -620,7 +305,7 @@
                     "Zanos",
                     "Zo",
                     "Aphi",
-                    "Ted",
+                    "Sonu",
                     "Nate",
                     "Hex"
                 ],

@@ -2,7 +2,7 @@
     {
         "nid": "Iron_Bow",
         "name": "Iron Bow",
-        "desc": "-2 Spd",
+        "desc": "Grants Anti-Fliers. -2 SPD.",
         "icon_nid": "Bow",
         "icon_index": [
             0,
@@ -56,7 +56,7 @@
                         "Flying"
                     ],
                     "effective_multiplier": 1.0,
-                    "effective_bonus_damage": 12,
+                    "effective_bonus_damage": 10,
                     "show_effectiveness_flash": true,
                     "weapon_effectiveness_multiplied": true
                 }
@@ -69,6 +69,10 @@
                         -2
                     ]
                 ]
+            ],
+            [
+                "status_on_equip",
+                "AntiFliers"
             ]
         ]
     }

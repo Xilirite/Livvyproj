@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "new",
+        "name": "new",
+        "desc": "this is the crit evade skill :3",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "class_skill",
+                null
+            ]
+        ]
+    }
+]

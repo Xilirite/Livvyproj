@@ -44,7 +44,7 @@
         "name": "Eva",
         "maximum": 20,
         "desc": "Evasion. +2 Avoid and +1 Dodge per point.",
-        "position": "right",
+        "position": "left",
         "growth_colors": false
     },
     {

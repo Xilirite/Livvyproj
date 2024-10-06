@@ -27,6 +27,10 @@
             [
                 "can_unlock",
                 "region.nid.startswith('Door')"
+            ],
+            [
+                "accessory",
+                null
             ]
         ]
     }

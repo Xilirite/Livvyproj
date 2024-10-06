@@ -122859,5 +122859,10 @@
                 "TransformMyrrh"
             ]
         ]
+    },
+    {
+        "nid": "Commander",
+        "weapon_anims": [],
+        "palettes": []
     }
 ]

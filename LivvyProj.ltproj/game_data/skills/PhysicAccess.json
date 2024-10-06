@@ -1,0 +1,24 @@
+[
+    {
+        "nid": "PhysicAccess",
+        "name": "Physic",
+        "desc": "",
+        "icon_nid": "Staff",
+        "icon_index": [
+            0,
+            3
+        ],
+        "components": [
+            [
+                "hidden",
+                null
+            ],
+            [
+                "has_tags",
+                [
+                    "PhysicAccess"
+                ]
+            ]
+        ]
+    }
+]

@@ -2,7 +2,7 @@
     {
         "nid": "ChromaticBurst",
         "name": "Chromatic Burst",
-        "desc": "Zo unleashes a splash of colour with her next attack, reducing enemy DEF/RES/EVA by 5 in a 2 tile radius.",
+        "desc": "Zo unleashes a splash of colour with\nher next attack, reducing enemy\nDEF/RES/EVA by 5 in a 2 tile radius.",
         "icon_nid": "Skills",
         "icon_index": [
             10,

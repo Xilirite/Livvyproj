@@ -71,6 +71,12 @@
                     144,
                     232
                 ]
+            ],
+            [
+                "prf_tags",
+                [
+                    "RecoverAccess"
+                ]
             ]
         ]
     }

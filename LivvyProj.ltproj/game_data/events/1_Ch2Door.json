@@ -3,7 +3,7 @@
         "name": "Ch2Door",
         "trigger": "Door",
         "level_nid": "1",
-        "condition": "region.nid == 'Ch2Door'",
+        "condition": "region.nid == 'Door'",
         "commands": [],
         "only_once": false,
         "priority": 20,

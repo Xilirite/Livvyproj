@@ -595,7 +595,7 @@
                 "interrupt_move": false
             },
             {
-                "nid": "Ch2Door",
+                "nid": "Door",
                 "region_type": "event",
                 "position": [
                     1,

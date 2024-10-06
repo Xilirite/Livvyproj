@@ -360,7 +360,7 @@
             {
                 "action": "Attack",
                 "target": "Enemy",
-                "target_spec": "Door",
+                "target_spec": null,
                 "view_range": -2,
                 "invert_targeting": false,
                 "roam_speed": 100,

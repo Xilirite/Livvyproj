@@ -15,7 +15,7 @@
             "DEF": 1,
             "MOV": 6,
             "RES": 5,
-            "POW": 9,
+            "POW": 10,
             "ACC": 7,
             "LTH": 0,
             "EVA": 6,
@@ -59,6 +59,22 @@
             [
                 1,
                 "LivvySpellbook"
+            ],
+            [
+                4,
+                "FormaAccess"
+            ],
+            [
+                11,
+                "BlossomAccess"
+            ],
+            [
+                16,
+                "SagittaeAccess"
+            ],
+            [
+                22,
+                "AgainAccess"
             ]
         ],
         "unit_notes": [],

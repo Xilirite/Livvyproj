@@ -71,6 +71,12 @@
             [
                 "equation_heal",
                 "HEAL"
+            ],
+            [
+                "prf_tags",
+                [
+                    "PhysicAccess"
+                ]
             ]
         ]
     }

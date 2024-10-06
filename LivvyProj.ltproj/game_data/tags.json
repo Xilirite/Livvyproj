@@ -20,5 +20,12 @@
     "ThoronAccess",
     "AgainAccess",
     "Light",
-    "Dark"
+    "Dark",
+    "ZanosSpell",
+    "RimecoatAccess",
+    "PhysicAccess",
+    "RecoverAccess",
+    "BarrierAccess",
+    "EmboldenAccess",
+    "FimbulvetrAccess"
 ]

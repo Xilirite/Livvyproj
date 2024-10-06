@@ -17,7 +17,13 @@
                 "multi_item",
                 [
                     "Heal",
-                    "Lightning"
+                    "Lightning",
+                    "Rimecoat",
+                    "Barrier",
+                    "Embolden",
+                    "Physic",
+                    "Recover",
+                    "Fimbulvetr"
                 ]
             ]
         ]

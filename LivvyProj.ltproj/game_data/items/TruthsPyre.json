@@ -1,12 +1,12 @@
 [
     {
-        "nid": "Thoron",
-        "name": "Thoron",
-        "desc": "Lightning magic with extended range.",
+        "nid": "TruthsPyre",
+        "name": "Truth's Pyre",
+        "desc": "+2 to all stats.",
         "icon_nid": "Anima",
         "icon_index": [
             0,
-            1
+            2
         ],
         "components": [
             [
@@ -23,7 +23,7 @@
             ],
             [
                 "max_range",
-                3
+                2
             ],
             [
                 "damage",
@@ -31,11 +31,11 @@
             ],
             [
                 "hit",
-                75
+                80
             ],
             [
                 "crit",
-                10
+                0
             ],
             [
                 "level_exp",
@@ -54,17 +54,35 @@
                 null
             ],
             [
-                "prf_tags",
-                [
-                    "ThoronAccess"
-                ]
-            ],
-            [
                 "stat_change",
                 [
                     [
+                        "POW",
+                        2
+                    ],
+                    [
+                        "ACC",
+                        2
+                    ],
+                    [
+                        "LTH",
+                        2
+                    ],
+                    [
                         "SPD",
-                        -3
+                        2
+                    ],
+                    [
+                        "EVA",
+                        2
+                    ],
+                    [
+                        "DEF",
+                        2
+                    ],
+                    [
+                        "RES",
+                        2
                     ]
                 ]
             ]

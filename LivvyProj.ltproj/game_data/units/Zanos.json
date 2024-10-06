@@ -3,15 +3,15 @@
         "nid": "Zanos",
         "name": "Zanos",
         "desc": "A soft-spoken wanderer, they\nare driven by aspirations of\nrigorous self-improvement.",
-        "variant": "",
-        "level": 3,
+        "variant": "Female",
+        "level": 4,
         "klass": "Thaumaturge",
         "tags": [],
         "bases": {
-            "HP": 25,
-            "SPD": 3,
+            "HP": 29,
+            "SPD": 2,
             "DEF": 7,
-            "MOV": 4,
+            "MOV": 7,
             "RES": 3,
             "POW": 11,
             "ACC": 6,
@@ -44,7 +44,44 @@
             "ManaStat": 0
         },
         "starting_items": [],
-        "learned_skills": [],
+        "learned_skills": [
+            [
+                1,
+                "ZanosSpellbook"
+            ],
+            [
+                1,
+                "MutualTrust"
+            ],
+            [
+                6,
+                "RimecoatAccess"
+            ],
+            [
+                9,
+                "PhysicAccess"
+            ],
+            [
+                15,
+                "BarrierAccess"
+            ],
+            [
+                15,
+                "EmboldenAccess"
+            ],
+            [
+                22,
+                "RecoverAccess"
+            ],
+            [
+                25,
+                "FimbulvetrAccess"
+            ],
+            [
+                1,
+                "Coldsnap"
+            ]
+        ],
         "unit_notes": [],
         "wexp_gain": {
             "Sword": [

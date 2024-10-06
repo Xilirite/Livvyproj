@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "ZanosSpellbook",
+        "name": "Spellbook",
+        "desc": "Displays all learned spells.",
+        "icon_nid": "wexp_icons",
+        "icon_index": [
+            0,
+            6
+        ],
+        "components": [
+            [
+                "hidden",
+                null
+            ],
+            [
+                "ability",
+                "ZanosSpellbook"
+            ]
+        ]
+    }
+]

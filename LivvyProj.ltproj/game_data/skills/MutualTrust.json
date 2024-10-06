@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "MutualTrust",
+        "name": "Mutual Trust",
+        "desc": "Using a non-damaging spells, heals Zanos\nfor amount healed if applicable and gains\n+4 DEF/RES until their next turn.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            10,
+            4
+        ],
+        "components": [
+            [
+                "class_skill",
+                null
+            ],
+            [
+                "live_to_serve",
+                1.0
+            ],
+            [
+                "gain_skill_after_combat",
+                "MutualTrustChild"
+            ],
+            [
+                "combat_condition",
+                "target.team == 'player'"
+            ]
+        ]
+    }
+]

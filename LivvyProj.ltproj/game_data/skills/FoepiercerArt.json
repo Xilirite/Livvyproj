@@ -1,0 +1,39 @@
+[
+    {
+        "nid": "FoepiercerArt",
+        "name": "Foepiercer",
+        "desc": "A specialized attack with +3 Damage, +5 ACC/LTH,\nand an additional +15 Damage against\nCavalry and Armours. Can't double.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            8,
+            2
+        ],
+        "components": [
+            [
+                "damage",
+                3
+            ],
+            [
+                "item_override",
+                "RoseEffectiveOverride"
+            ],
+            [
+                "stat_change",
+                [
+                    [
+                        "ACC",
+                        5
+                    ],
+                    [
+                        "LTH",
+                        5
+                    ]
+                ]
+            ],
+            [
+                "cannot_double",
+                null
+            ]
+        ]
+    }
+]

@@ -1,7 +1,7 @@
 [
     {
         "nid": "0",
-        "name": "I - I Brought You Some Chaos",
+        "name": "I - Drinking Games",
         "tilemap": "Ch1",
         "bg_tilemap": null,
         "party": "LivvyParty",
@@ -152,7 +152,7 @@
                 "nid": "104",
                 "variant": null,
                 "level": 1,
-                "klass": "Cavalier",
+                "klass": "Soldier",
                 "faction": "Soldier",
                 "starting_items": [
                     [

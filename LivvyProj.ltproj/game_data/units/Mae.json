@@ -9,7 +9,7 @@
         "tags": [],
         "bases": {
             "HP": 27,
-            "SPD": 12,
+            "SPD": 10,
             "DEF": 1,
             "MOV": 6,
             "RES": 7,

@@ -15,7 +15,7 @@
             "DEF": 2,
             "MOV": 5,
             "RES": 5,
-            "POW": 13,
+            "POW": 12,
             "ACC": 15,
             "LTH": 0,
             "EVA": 15,
@@ -116,7 +116,7 @@
         },
         "alternate_classes": [],
         "portrait_nid": "Miles",
-        "affinity": "None",
+        "affinity": "Ice",
         "fields": []
     }
 ]

@@ -2,7 +2,7 @@
     {
         "nid": "Silver_Bow",
         "name": "Silver Bow",
-        "desc": "",
+        "desc": "Grants Anti-Fliers.",
         "icon_nid": "Bow",
         "icon_index": [
             0,
@@ -60,6 +60,10 @@
                     "show_effectiveness_flash": true,
                     "weapon_effectiveness_multiplied": true
                 }
+            ],
+            [
+                "status_on_equip",
+                "AntiFliers"
             ]
         ]
     }

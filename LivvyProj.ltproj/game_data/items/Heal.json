@@ -10,10 +10,6 @@
         ],
         "components": [
             [
-                "spell",
-                null
-            ],
-            [
                 "target_ally",
                 null
             ],
@@ -48,6 +44,20 @@
             [
                 "equation_heal",
                 "HEAL"
+            ],
+            [
+                "item_tags",
+                [
+                    "ZanosSpell"
+                ]
+            ],
+            [
+                "weapon",
+                null
+            ],
+            [
+                "no_equip",
+                null
             ]
         ]
     }

@@ -1,0 +1,24 @@
+[
+    {
+        "nid": "EmboldenAccess",
+        "name": "Embolden",
+        "desc": "",
+        "icon_nid": "Staff",
+        "icon_index": [
+            0,
+            14
+        ],
+        "components": [
+            [
+                "hidden",
+                null
+            ],
+            [
+                "has_tags",
+                [
+                    "EmboldenAccess"
+                ]
+            ]
+        ]
+    }
+]

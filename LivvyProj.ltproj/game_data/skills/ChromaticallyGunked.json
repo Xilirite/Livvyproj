@@ -29,6 +29,10 @@
             [
                 "negative",
                 null
+            ],
+            [
+                "time",
+                2
             ]
         ]
     }

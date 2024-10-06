@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Foepiercer",
+        "name": "Foepiercer",
+        "desc": "A specialized attack with +3 Damage, +5 ACC/LTH,\nand an additional +15 Damage against\nCavalry and Armours. Can't double.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            8,
+            2
+        ],
+        "components": [
+            [
+                "combat_art",
+                "FoepiercerArt"
+            ],
+            [
+                "class_skill",
+                null
+            ]
+        ]
+    }
+]

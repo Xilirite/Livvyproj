@@ -1,0 +1,27 @@
+[
+    {
+        "nid": "Chilled",
+        "name": "Chilled",
+        "desc": "Unit is chilled. -2 SPD/-5 EVA.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            5,
+            3
+        ],
+        "components": [
+            [
+                "stat_change",
+                [
+                    [
+                        "SPD",
+                        -2
+                    ],
+                    [
+                        "EVA",
+                        -5
+                    ]
+                ]
+            ]
+        ]
+    }
+]

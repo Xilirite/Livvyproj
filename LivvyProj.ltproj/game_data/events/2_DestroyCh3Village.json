@@ -1,17 +1,17 @@
 [
     {
-        "name": "DestroyVillage3",
+        "name": "DestroyCh3Village",
         "trigger": "Destructible",
         "level_nid": "2",
-        "condition": "region.nid == 'DestroyVillage3'",
+        "condition": "region.nid == 'DestroyCh3Village'",
         "commands": [],
         "only_once": true,
         "priority": 20,
         "_source": [
-            "flicker_cursor;1,12",
-            "show_layer;Ruin3",
+            "flicker_cursor;4,2",
+            "show_layer;Ruin",
             "wait;500"
         ],
-        "nid": "2 DestroyVillage3"
+        "nid": "2 DestroyCh3Village"
     }
 ]
