@@ -892,19 +892,6 @@
                 "generic": true
             },
             {
-                "nid": "Vigarde",
-                "team": "enemy",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    1,
-                    3
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
                 "nid": "142",
                 "variant": null,
                 "level": 1,

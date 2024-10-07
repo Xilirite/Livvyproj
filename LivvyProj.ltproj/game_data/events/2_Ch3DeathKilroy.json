@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Ch3DeathKilroy",
+        "trigger": "unit_death",
+        "level_nid": "2",
+        "condition": "unit.nid == \"Kilroy\"",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Kilroy;Left",
+            "speak;Kilroy;Heh... Y-you'd better run, girlie...|Because next time... you won't be... so... lucky...",
+            "remove_portrait;Kilroy"
+        ],
+        "nid": "2 Ch3DeathKilroy"
+    }
+]

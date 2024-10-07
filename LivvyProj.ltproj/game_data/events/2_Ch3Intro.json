@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Ch3Intro",
+        "trigger": "level_start",
+        "level_nid": "2",
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "prep;1"
+        ],
+        "nid": "2 Ch3Intro"
+    }
+]

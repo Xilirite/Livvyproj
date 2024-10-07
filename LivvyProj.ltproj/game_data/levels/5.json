@@ -66,19 +66,6 @@
                 "generic": false
             },
             {
-                "nid": "Saar",
-                "team": "enemy",
-                "ai": "Boss",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    13,
-                    1
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
                 "nid": "101",
                 "variant": null,
                 "level": 3,
@@ -934,7 +921,6 @@
                 "nid": "EnemyTeam",
                 "units": [
                     "101",
-                    "Saar",
                     "102",
                     "103",
                     "104",

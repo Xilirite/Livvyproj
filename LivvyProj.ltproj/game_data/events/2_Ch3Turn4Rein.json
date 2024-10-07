@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Ch3Turn4Rein",
+        "trigger": "turn_change",
+        "level_nid": "2",
+        "condition": "game.turncount == 4",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "move_cursor;0,9",
+            "spawn_group;Rein1;West;Rein1",
+            "wait;120"
+        ],
+        "nid": "2 Ch3Turn4Rein"
+    }
+]

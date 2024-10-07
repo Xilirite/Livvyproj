@@ -2,7 +2,7 @@
     {
         "nid": "Tia",
         "name": "Tia",
-        "desc": "The prince of Renais. He is a man of great honour and bravery.",
+        "desc": "the tia :3",
         "variant": "Female",
         "level": 5,
         "klass": "Trickster",
@@ -104,7 +104,7 @@
             ]
         },
         "alternate_classes": [],
-        "portrait_nid": "Ephraim",
+        "portrait_nid": "Tia",
         "affinity": "Fire",
         "fields": []
     }

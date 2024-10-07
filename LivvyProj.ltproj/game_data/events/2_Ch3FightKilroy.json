@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Ch3FightKilroy",
+        "trigger": "combat_start",
+        "level_nid": "2",
+        "condition": "(unit.nid == \"Kilroy\" and unit2.team == 'player') or (unit2.nid == \"Kilroy\" and unit.team == 'player')",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Kilroy;Left",
+            "speak;Kilroy;Should've handed over the girl while you had the chance.|I'm gonna gut each and every one of you like fish!",
+            "remove_portrait;Kilroy"
+        ],
+        "nid": "2 Ch3FightKilroy"
+    }
+]

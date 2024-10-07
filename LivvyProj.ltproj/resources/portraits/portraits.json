@@ -874,5 +874,17 @@
             40
         ],
         "info_offset": 1
+    },
+    {
+        "nid": "Tia",
+        "blinking_offset": [
+            32,
+            24
+        ],
+        "smiling_offset": [
+            32,
+            40
+        ],
+        "info_offset": 0
     }
 ]

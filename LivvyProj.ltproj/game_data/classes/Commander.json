@@ -130,7 +130,7 @@
             0
         ],
         "map_sprite_nid": "Commander",
-        "combat_anim_nid": null,
+        "combat_anim_nid": "Commander",
         "fields": []
     }
 ]
