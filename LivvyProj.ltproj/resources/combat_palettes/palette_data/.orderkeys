@@ -1,7 +1,6 @@
 [
     "Archer0_GenericBlue",
     "Archer0_GenericRed",
-    "Myrmidon0_GenericBlue",
     "Myrmidon0_GenericRed",
     "Myrmidon0_Ophie",
     "Mercenary0_GenericBlue",
@@ -243,5 +242,14 @@
     "map_sprite_dark_wait",
     "New_Palette",
     "New_Palette_(1)",
-    "New_Palette_1"
+    "New_Palette_1",
+    "New_Palette_2",
+    "New_Palette_3",
+    "New_Palette_4",
+    "New_Palette_5",
+    "New_Palette_6",
+    "New_Palette_7",
+    "SonuPalette",
+    "Myrmidon0_GenericBlue",
+    "NatePalette"
 ]

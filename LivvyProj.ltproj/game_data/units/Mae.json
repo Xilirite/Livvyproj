@@ -3,7 +3,7 @@
         "nid": "Mae",
         "name": "Mae",
         "desc": "An eagle-eyed archer. Her bubbly\npersonality belies her infamy as a\ncrack-shot. Known as the Red Sun.",
-        "variant": "Female",
+        "variant": "Mae",
         "level": 1,
         "klass": "Sniper",
         "tags": [],
@@ -14,9 +14,9 @@
             "MOV": 6,
             "RES": 7,
             "POW": 16,
-            "ACC": 11,
+            "ACC": 33,
             "LTH": 0,
-            "EVA": 4,
+            "EVA": 8,
             "ManaStat": 5
         },
         "growths": {

@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "BlackFlash",
+        "name": "Black Flash",
+        "desc": "When Nate lands a critical hit, he\ngains EVA = twice his base LTH stat\nduring his next combat or until\nthe start of his next turn.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            7,
+            0
+        ],
+        "components": [
+            [
+                "class_skill",
+                null
+            ],
+            [
+                "gain_skill_after_kill",
+                "BlackFlashStatus"
+            ]
+        ]
+    }
+]

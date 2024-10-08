@@ -29,6 +29,14 @@
             [
                 "time",
                 2
+            ],
+            [
+                "unit_flickering_tint",
+                [
+                    112,
+                    36,
+                    69
+                ]
             ]
         ]
     }

@@ -2,7 +2,7 @@
     {
         "nid": "Foepiercer",
         "name": "Foepiercer",
-        "desc": "A specialized attack with +3 Damage, +5 ACC/LTH,\nand an additional +15 Damage against\nCavalry and Armours. Can't double.",
+        "desc": "A specialized attack with +3 Damage, +15 ACC/LTH,\nand an additional +15 Damage against\nCavalry and Armours. Can't double.",
         "icon_nid": "Skills",
         "icon_index": [
             8,

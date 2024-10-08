@@ -2,7 +2,7 @@
     {
         "nid": "MaskedLethality",
         "name": "Masked Lethality",
-        "desc": "Nate's strikes are uncannily true, increasing his critical damage by his LTH.",
+        "desc": "Nate's strikes are uncannily true, increasing his critical damage by half of his LTH.",
         "icon_nid": "Skills",
         "icon_index": [
             4,

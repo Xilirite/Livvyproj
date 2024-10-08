@@ -2,7 +2,7 @@
     {
         "nid": "SpecialMoveArt",
         "name": "Special Move!",
-        "desc": "Nate uses his special move, guaranteeing a critical hit with +10 ACC.",
+        "desc": "Nate uses his special move, guaranteeing a critical hit with +30 ACC.",
         "icon_nid": "Skills",
         "icon_index": [
             6,
@@ -22,7 +22,7 @@
                 [
                     [
                         "ACC",
-                        10
+                        30
                     ]
                 ]
             ],

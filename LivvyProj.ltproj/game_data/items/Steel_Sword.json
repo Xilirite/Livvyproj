@@ -3,10 +3,10 @@
         "nid": "Steel_Sword",
         "name": "Steel Sword",
         "desc": "-1 SPD",
-        "icon_nid": "Sword",
+        "icon_nid": "steel sword",
         "icon_index": [
             0,
-            2
+            0
         ],
         "components": [
             [

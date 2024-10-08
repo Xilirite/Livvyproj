@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "VictoryPose",
+        "name": "Victory Pose",
+        "desc": "After defeating an enemy on his\nturn, Ben strikes a VERY cool pose.\nIn his next combat, he takes 50%\nless damage and deals bonus\ndamage = 50% of his missing HP.\nIf not used this turn, bonus is lost.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            4,
+            4
+        ],
+        "components": [
+            [
+                "gain_skill_after_active_kill",
+                "VictoryPoseStatus"
+            ],
+            [
+                "class_skill",
+                null
+            ]
+        ]
+    }
+]

@@ -767,6 +767,19 @@
                 "starting_position": null,
                 "starting_traveler": null,
                 "generic": true
+            },
+            {
+                "nid": "Tia",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    8,
+                    11
+                ],
+                "starting_traveler": null,
+                "generic": false
             }
         ],
         "regions": [

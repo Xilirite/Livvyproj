@@ -17,19 +17,19 @@
     },
     {
         "nid": "HIT",
-        "expression": "ACC*3"
+        "expression": "ACC"
     },
     {
         "nid": "AVOID",
-        "expression": "EVA*2"
+        "expression": "EVA"
     },
     {
         "nid": "CRIT_HIT",
-        "expression": "LTH*2"
+        "expression": "LTH"
     },
     {
         "nid": "CRIT_AVOID",
-        "expression": "EVA"
+        "expression": "EVA/2"
     },
     {
         "nid": "DAMAGE",
@@ -105,6 +105,6 @@
     },
     {
         "nid": "NATECRIT",
-        "expression": "LTH"
+        "expression": "LTH / 2"
     }
 ]

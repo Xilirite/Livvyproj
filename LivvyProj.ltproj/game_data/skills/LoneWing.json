@@ -20,6 +20,14 @@
             [
                 "condition",
                 "unit_funcs.check_focus(unit, 2) == 0"
+            ],
+            [
+                "unit_flickering_tint",
+                [
+                    6,
+                    236,
+                    152
+                ]
             ]
         ]
     }

@@ -18,9 +18,9 @@
             "RES": 7,
             "MOV": 6,
             "POW": 3,
-            "ACC": 9,
-            "LTH": 5,
-            "EVA": 10,
+            "ACC": 27,
+            "LTH": 10,
+            "EVA": 20,
             "ManaStat": 0
         },
         "growths": {
@@ -65,11 +65,11 @@
             "DEF": 30,
             "RES": 30,
             "MOV": 15,
-            "POW": 30,
-            "ACC": 30,
-            "LTH": 30,
-            "EVA": 30,
-            "ManaStat": 30
+            "POW": 40,
+            "ACC": 90,
+            "LTH": 60,
+            "EVA": 60,
+            "ManaStat": 20
         },
         "learned_skills": [],
         "wexp_gain": {

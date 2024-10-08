@@ -744,18 +744,6 @@
         "info_offset": 6
     },
     {
-        "nid": "Nate",
-        "blinking_offset": [
-            24,
-            32
-        ],
-        "smiling_offset": [
-            24,
-            48
-        ],
-        "info_offset": 8
-    },
-    {
         "nid": "Ostrava",
         "blinking_offset": [
             24,
@@ -886,5 +874,17 @@
             40
         ],
         "info_offset": 0
+    },
+    {
+        "nid": "Nate",
+        "blinking_offset": [
+            24,
+            24
+        ],
+        "smiling_offset": [
+            16,
+            40
+        ],
+        "info_offset": 3
     }
 ]

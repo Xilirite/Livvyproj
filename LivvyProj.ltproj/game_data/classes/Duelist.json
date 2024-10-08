@@ -20,9 +20,9 @@
             "MOV": 5,
             "RES": 2,
             "POW": 9,
-            "ACC": 6,
-            "LTH": 3,
-            "EVA": 5,
+            "ACC": 18,
+            "LTH": 6,
+            "EVA": 10,
             "ManaStat": 0
         },
         "growths": {
@@ -62,16 +62,16 @@
             "ManaStat": 0
         },
         "max_stats": {
-            "HP": 60,
-            "SPD": 20,
-            "DEF": 20,
+            "HP": 80,
+            "SPD": 30,
+            "DEF": 30,
             "MOV": 15,
-            "RES": 20,
-            "POW": 20,
-            "ACC": 20,
-            "LTH": 20,
-            "EVA": 20,
-            "ManaStat": 30
+            "RES": 30,
+            "POW": 40,
+            "ACC": 90,
+            "LTH": 60,
+            "EVA": 60,
+            "ManaStat": 20
         },
         "learned_skills": [],
         "wexp_gain": {
@@ -132,7 +132,7 @@
             0
         ],
         "map_sprite_nid": "Myrmidon",
-        "combat_anim_nid": null,
+        "combat_anim_nid": "Myrmidon",
         "fields": []
     }
 ]

@@ -18,8 +18,8 @@
             "RES": 0,
             "MOV": 5,
             "POW": 12,
-            "ACC": 6,
-            "LTH": 0,
+            "ACC": 18,
+            "LTH": 3,
             "EVA": 0,
             "ManaStat": 0
         },
@@ -31,7 +31,7 @@
             "MOV": 0,
             "POW": 40,
             "ACC": 45,
-            "LTH": 0,
+            "LTH": 30,
             "EVA": 13,
             "ManaStat": 0
         },
@@ -61,15 +61,15 @@
         },
         "max_stats": {
             "HP": 80,
-            "SPD": 20,
-            "DEF": 20,
-            "RES": 20,
+            "SPD": 30,
+            "DEF": 30,
+            "RES": 30,
             "MOV": 15,
-            "POW": 20,
-            "ACC": 20,
-            "LTH": 30,
-            "EVA": 30,
-            "ManaStat": 30
+            "POW": 40,
+            "ACC": 90,
+            "LTH": 60,
+            "EVA": 60,
+            "ManaStat": 20
         },
         "learned_skills": [],
         "wexp_gain": {

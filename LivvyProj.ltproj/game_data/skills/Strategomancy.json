@@ -2,7 +2,7 @@
     {
         "nid": "Strategomancy",
         "name": "Strategomancy",
-        "desc": "Zo's strategy inspires her allies, granting them +5 ACC/EVA and Canter 1 when within 3 tiles.",
+        "desc": "Zo's strategy inspires her allies, granting them +15 ACC/EVA and Canter 1 when within 3 tiles.",
         "icon_nid": "Skills",
         "icon_index": [
             10,

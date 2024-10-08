@@ -3,8 +3,12 @@
     "AntiFliers": "Generic",
     "AphiSpellbook": "Aphi",
     "BarrierAccess": "Zanos",
+    "BlackFlash": "Nate",
+    "BlackFlashStatus": "Nate",
     "BlossomAccess": "Livvy",
-    "BurningJustice": "Ben",
+    "BurningJusticeAcc": "Ben",
+    "BurningJusticeEva": "Ben",
+    "BurningJusticeLth": "Ben",
     "Chilled": "Zanos",
     "ChromaticBurst": "Zo",
     "ChromaticallyGunked": "Zo",
@@ -53,7 +57,8 @@
     "Survivor": "Generic",
     "Tracked": "Mae",
     "TrackingShots": "Mae",
+    "VictoryPose": "Ben",
+    "VictoryPoseStatus": "Ben",
     "ZanosSpellbook": "Zanos",
-    "ZoSpellbook": "Zo",
-    "new": "Nate"
+    "ZoSpellbook": "Zo"
 }

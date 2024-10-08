@@ -2,7 +2,7 @@
     {
         "nid": "Chilled",
         "name": "Chilled",
-        "desc": "Unit is chilled. -2 SPD/-5 EVA.",
+        "desc": "Unit is chilled. -2 SPD/-10 EVA.",
         "icon_nid": "Skills",
         "icon_index": [
             5,
@@ -18,8 +18,16 @@
                     ],
                     [
                         "EVA",
-                        -5
+                        -10
                     ]
+                ]
+            ],
+            [
+                "unit_flickering_tint",
+                [
+                    143,
+                    244,
+                    255
                 ]
             ]
         ]

@@ -2,7 +2,7 @@
     {
         "nid": "Coldsnap",
         "name": "Coldsnap",
-        "desc": "Zanos's magic chills the air around\nthem, inflicting -2 SPD/-5 EVA\non all foes within 2 tiles.",
+        "desc": "Zanos's magic chills the air around\nthem, inflicting -2 SPD/-10 EVA\non all foes within 2 tiles.",
         "icon_nid": "Skills",
         "icon_index": [
             5,

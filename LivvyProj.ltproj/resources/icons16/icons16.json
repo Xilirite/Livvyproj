@@ -75,5 +75,93 @@
     {
         "nid": "JusticeBolt",
         "subicon_dict": {}
+    },
+    {
+        "nid": "brave swords",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "iron axe",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "iron blade",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "iron lance",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "iron sword",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "killing edge",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "lotus bloom",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "minos",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "quicksilver axe",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "quicksilver lance",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "quicksilver sword",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "rays",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "silver axe",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "silver blade",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "silver lance",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "silver sword",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "slim sword",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "steel axe",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "steel blade",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "steel lance",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "steel sword",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "blessed sword",
+        "subicon_dict": {}
     }
 ]

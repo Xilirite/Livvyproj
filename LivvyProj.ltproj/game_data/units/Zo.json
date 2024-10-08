@@ -14,9 +14,9 @@
             "RES": 6,
             "MOV": 5,
             "POW": 14,
-            "ACC": 10,
+            "ACC": 30,
             "LTH": 0,
-            "EVA": 5,
+            "EVA": 10,
             "ManaStat": 10
         },
         "growths": {

@@ -1,0 +1,43 @@
+[
+    {
+        "nid": "VictoryPoseStatus",
+        "name": "Victory Pose",
+        "desc": "Unit is posing, halving damage taken\nduring his next combat & dealing\nbonus damage = 1/2 missing HP.\nIf not used this turn, bonus is lost.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            4,
+            4
+        ],
+        "components": [
+            [
+                "lost_on_end_combat2",
+                {
+                    "lost_on_self": false,
+                    "lost_on_ally": false,
+                    "lost_on_enemy": true,
+                    "lost_on_splash": true
+                }
+            ],
+            [
+                "resist_multiplier",
+                0.5
+            ],
+            [
+                "eval_damage",
+                "(unit.stats['HP'] - unit.current_hp) / 2"
+            ],
+            [
+                "lost_on_upkeep",
+                null
+            ],
+            [
+                "unit_flickering_tint",
+                [
+                    99,
+                    1,
+                    3
+                ]
+            ]
+        ]
+    }
+]

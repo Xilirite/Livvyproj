@@ -3,10 +3,10 @@
         "nid": "Silver_Sword",
         "name": "Silver Sword",
         "desc": "-2 SPD",
-        "icon_nid": "Sword",
+        "icon_nid": "silver sword",
         "icon_index": [
             0,
-            3
+            0
         ],
         "components": [
             [

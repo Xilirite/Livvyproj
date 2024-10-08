@@ -2,7 +2,7 @@
     {
         "nid": "DissonanceDark",
         "name": "Dissonance",
-        "desc": "Harmony's effects linger after combat, granting +1 to the affected stats, stacking up to 3 times.\nAt 3 stacks, also gain -5 to the opposite stats. Using the opposing element clears all stacks.",
+        "desc": "Harmony's effects linger after combat, granting +1 to the affected stats, stacking up to 3 times.\nAt 3 stacks, also gain -7 to the opposite stats. Using the opposing element clears all stacks.",
         "icon_nid": "Skills",
         "icon_index": [
             2,
@@ -20,6 +20,14 @@
             [
                 "condition",
                 "'Dark' in unit.get_weapon().tags"
+            ],
+            [
+                "unit_flickering_tint",
+                [
+                    74,
+                    28,
+                    74
+                ]
             ]
         ]
     }

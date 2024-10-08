@@ -2,7 +2,7 @@
     {
         "nid": "StrategomancyChild",
         "name": "Strategomancy",
-        "desc": "This unit is inspired, gaining +5 ACC/EVA.",
+        "desc": "This unit is inspired, gaining +15 ACC/EVA.",
         "icon_nid": "Skills",
         "icon_index": [
             10,
@@ -14,11 +14,11 @@
                 [
                     [
                         "ACC",
-                        5
+                        15
                     ],
                     [
                         "EVA",
-                        5
+                        15
                     ]
                 ]
             ],

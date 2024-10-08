@@ -1,0 +1,67 @@
+[
+    {
+        "nid": "Brave_Swords",
+        "name": "Brave Swords",
+        "desc": "+10 LTH, -1 SPD",
+        "icon_nid": "brave swords",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                1
+            ],
+            [
+                "damage",
+                4
+            ],
+            [
+                "hit",
+                90
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "weapon_type",
+                "Sword"
+            ],
+            [
+                "weapon_rank",
+                "*"
+            ],
+            [
+                "stat_change",
+                [
+                    [
+                        "SPD",
+                        -1
+                    ],
+                    [
+                        "LTH",
+                        10
+                    ]
+                ]
+            ]
+        ]
+    }
+]

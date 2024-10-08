@@ -63,16 +63,16 @@
             "ManaStat": 0
         },
         "max_stats": {
-            "HP": 60,
-            "SPD": 20,
-            "DEF": 20,
-            "RES": 20,
+            "HP": 80,
+            "SPD": 30,
+            "DEF": 30,
+            "RES": 30,
             "MOV": 15,
-            "POW": 20,
-            "ACC": 20,
-            "LTH": 30,
-            "EVA": 30,
-            "ManaStat": 30
+            "POW": 40,
+            "ACC": 90,
+            "LTH": 60,
+            "EVA": 60,
+            "ManaStat": 20
         },
         "learned_skills": [
             [
@@ -101,6 +101,16 @@
                 0,
                 1
             ],
+            "Magic": [
+                true,
+                71,
+                1
+            ],
+            "Default": [
+                false,
+                0,
+                1
+            ],
             "Staff": [
                 false,
                 0,
@@ -117,16 +127,6 @@
                 1
             ],
             "Dark": [
-                true,
-                71,
-                1
-            ],
-            "Default": [
-                false,
-                0,
-                1
-            ],
-            "Magic": [
                 true,
                 71,
                 1

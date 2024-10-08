@@ -59,15 +59,15 @@
         },
         "max_stats": {
             "HP": 80,
-            "POW": 30,
-            "ACC": 30,
-            "LTH": 30,
+            "POW": 40,
+            "ACC": 90,
+            "LTH": 60,
             "SPD": 30,
-            "EVA": 30,
+            "EVA": 60,
             "DEF": 30,
             "RES": 30,
             "MOV": 15,
-            "ManaStat": 30
+            "ManaStat": 20
         },
         "learned_skills": [
             [

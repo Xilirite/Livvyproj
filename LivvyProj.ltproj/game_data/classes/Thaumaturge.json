@@ -62,16 +62,16 @@
             "ManaStat": 0
         },
         "max_stats": {
-            "HP": 60,
-            "POW": 20,
-            "ACC": 20,
-            "LTH": 20,
-            "SPD": 20,
-            "EVA": 20,
-            "DEF": 20,
-            "RES": 20,
+            "HP": 80,
+            "POW": 40,
+            "ACC": 90,
+            "LTH": 60,
+            "SPD": 30,
+            "EVA": 60,
+            "DEF": 30,
+            "RES": 30,
             "MOV": 15,
-            "ManaStat": 30
+            "ManaStat": 20
         },
         "learned_skills": [
             [
@@ -117,7 +117,7 @@
             0
         ],
         "map_sprite_nid": "Thaumaturge",
-        "combat_anim_nid": null,
+        "combat_anim_nid": "Thaumaturge",
         "fields": []
     }
 ]

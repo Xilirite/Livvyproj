@@ -2,7 +2,7 @@
     {
         "nid": "Tracked",
         "name": "Tracked",
-        "desc": "Mae is tracking this unit. -10 EVA.",
+        "desc": "Mae is tracking this unit. -20 EVA.",
         "icon_nid": "Skills",
         "icon_index": [
             1,
@@ -14,7 +14,7 @@
                 [
                     [
                         "EVA",
-                        -10
+                        -20
                     ]
                 ]
             ],
@@ -25,6 +25,14 @@
             [
                 "time",
                 2
+            ],
+            [
+                "unit_flickering_tint",
+                [
+                    216,
+                    218,
+                    79
+                ]
             ]
         ]
     }

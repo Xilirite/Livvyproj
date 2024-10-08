@@ -2,7 +2,7 @@
     {
         "nid": "TrackingShots",
         "name": "Tracking Shots",
-        "desc": "Mae's arrows mark her targets, decreasing their EVA by 10 after combat.",
+        "desc": "Mae's arrows mark her targets, decreasing their EVA by 20 after combat.",
         "icon_nid": "Skills",
         "icon_index": [
             1,

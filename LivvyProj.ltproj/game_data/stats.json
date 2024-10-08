@@ -19,7 +19,7 @@
         "nid": "ACC",
         "name": "Acc",
         "maximum": 20,
-        "desc": "Accuracy. +3 Hit per point.",
+        "desc": "Accuracy. +1% Chance to Hit per point.",
         "position": "left",
         "growth_colors": false
     },
@@ -27,7 +27,7 @@
         "nid": "LTH",
         "name": "Lth",
         "maximum": 20,
-        "desc": "Lethality. +2 Crit per point.",
+        "desc": "Lethality. +1% Chance to Crit per point.",
         "position": "left",
         "growth_colors": false
     },
@@ -40,19 +40,11 @@
         "growth_colors": false
     },
     {
-        "nid": "EVA",
-        "name": "Eva",
-        "maximum": 20,
-        "desc": "Evasion. +2 Avoid and +1 Dodge per point.",
-        "position": "left",
-        "growth_colors": false
-    },
-    {
         "nid": "DEF",
         "name": "Def",
         "maximum": 20,
         "desc": "Defense. Reduces physical damage per point.",
-        "position": "left",
+        "position": "right",
         "growth_colors": false
     },
     {
@@ -60,14 +52,22 @@
         "name": "Res",
         "maximum": 20,
         "desc": "Resistance. Reduces magical damage per point.",
-        "position": "left",
+        "position": "right",
+        "growth_colors": false
+    },
+    {
+        "nid": "EVA",
+        "name": "Eva",
+        "maximum": 20,
+        "desc": "Evasion. +1% Avoid per point, and +1% Crit Avoid per 2 points.",
+        "position": "right",
         "growth_colors": false
     },
     {
         "nid": "MOV",
-        "name": "Move",
+        "name": "Mov",
         "maximum": 20,
-        "desc": "Increases how many tiles unit can move per action.",
+        "desc": "Movement. Increases how many tiles unit can move per action.",
         "position": "right",
         "growth_colors": false
     },

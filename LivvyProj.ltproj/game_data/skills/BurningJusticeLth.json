@@ -1,0 +1,31 @@
+[
+    {
+        "nid": "BurningJusticeLth",
+        "name": "Burning Justice",
+        "desc": "Ben gains +1 ACC per missing HP.\nWhen below 50%, also gains LTH,\n& when below 25%, also gain EVA.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            5,
+            2
+        ],
+        "components": [
+            [
+                "stat_change_expression",
+                [
+                    [
+                        "LTH",
+                        "unit.stats['HP'] - unit.current_hp"
+                    ]
+                ]
+            ],
+            [
+                "condition",
+                "unit.get_hp() <= unit.get_max_hp() / 2"
+            ],
+            [
+                "hidden",
+                null
+            ]
+        ]
+    }
+]

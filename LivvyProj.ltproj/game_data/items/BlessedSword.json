@@ -3,10 +3,10 @@
         "nid": "BlessedSword",
         "name": "Blessed Sword",
         "desc": "Grants the 'Survivor' skill, restoring 25% HP every turn.",
-        "icon_nid": "Sword",
+        "icon_nid": "blessed sword",
         "icon_index": [
             0,
-            20
+            0
         ],
         "components": [
             [

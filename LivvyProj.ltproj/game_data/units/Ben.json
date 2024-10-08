@@ -16,9 +16,9 @@
             "MOV": 6,
             "RES": 0,
             "POW": 15,
-            "ACC": 8,
+            "ACC": 21,
             "LTH": 0,
-            "EVA": 4,
+            "EVA": 8,
             "ManaStat": 5
         },
         "growths": {
@@ -54,7 +54,19 @@
         "learned_skills": [
             [
                 1,
-                "BurningJustice"
+                "BurningJusticeAcc"
+            ],
+            [
+                1,
+                "BurningJusticeLth"
+            ],
+            [
+                1,
+                "BurningJusticeEva"
+            ],
+            [
+                1,
+                "VictoryPose"
             ]
         ],
         "unit_notes": [],

@@ -3,10 +3,10 @@
         "nid": "Iron_Sword",
         "name": "Iron Sword",
         "desc": "",
-        "icon_nid": "Sword",
+        "icon_nid": "iron sword",
         "icon_index": [
             0,
-            1
+            0
         ],
         "components": [
             [

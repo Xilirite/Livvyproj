@@ -36,6 +36,7 @@
     "ArcherFemale",
     "Sniper",
     "SniperFemale",
+    "SniperMae",
     "Ranger",
     "RangerFemale",
     "Monk",
@@ -69,5 +70,7 @@
     "Commander",
     "Tactician",
     "Thaumaturge",
-    "Trickster"
+    "Trickster",
+    "Acolyte",
+    "SonuThief"
 ]

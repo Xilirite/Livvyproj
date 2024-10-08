@@ -20,7 +20,7 @@
             "RES": 3,
             "MOV": 6,
             "POW": 8,
-            "ACC": 6,
+            "ACC": 18,
             "LTH": 0,
             "EVA": 0,
             "ManaStat": 0
@@ -62,16 +62,16 @@
             "ManaStat": 0
         },
         "max_stats": {
-            "HP": 60,
-            "SPD": 25,
-            "DEF": 29,
-            "RES": 26,
+            "HP": 80,
+            "SPD": 30,
+            "DEF": 30,
+            "RES": 30,
             "MOV": 15,
-            "POW": 28,
-            "ACC": 26,
-            "LTH": 30,
-            "EVA": 30,
-            "ManaStat": 30
+            "POW": 40,
+            "ACC": 90,
+            "LTH": 60,
+            "EVA": 60,
+            "ManaStat": 20
         },
         "learned_skills": [
             [
